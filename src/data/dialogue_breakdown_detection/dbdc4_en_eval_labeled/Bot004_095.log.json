@@ -1,0 +1,1085 @@
+{
+  "speaker-id": "Bot 004",
+  "group-id": "",
+  "turns": [
+    {
+      "turn-index": 0,
+      "speaker": "S",
+      "time": null,
+      "annotation-id": "Bot004_095_00",
+      "utterance": "Hi! \nIt is nice to see you [SMILING FACE WITH SMILING EYES]\nHow is your day going?",
+      "annotations": []
+    },
+    {
+      "turn-index": 1,
+      "speaker": "U",
+      "time": null,
+      "annotation-id": "Bot004_095_01",
+      "utterance": "It's great. I've just finished my daily 3 miles walk",
+      "annotations": []
+    },
+    {
+      "turn-index": 2,
+      "speaker": "S",
+      "time": null,
+      "annotation-id": "Bot004_095_02",
+      "utterance": "I have never heard of that, i am sure it is! Do you have a pet fish?",
+      "annotations": [
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        }
+      ]
+    },
+    {
+      "turn-index": 3,
+      "speaker": "U",
+      "time": null,
+      "annotation-id": "Bot004_095_03",
+      "utterance": "No, I don't have a pet fish",
+      "annotations": []
+    },
+    {
+      "turn-index": 4,
+      "speaker": "S",
+      "time": null,
+      "annotation-id": "Bot004_095_04",
+      "utterance": "That is a shame. I am sorry.",
+      "annotations": [
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        }
+      ]
+    },
+    {
+      "turn-index": 5,
+      "speaker": "U",
+      "time": null,
+      "annotation-id": "Bot004_095_05",
+      "utterance": "We do have a dog",
+      "annotations": []
+    },
+    {
+      "turn-index": 6,
+      "speaker": "S",
+      "time": null,
+      "annotation-id": "Bot004_095_06",
+      "utterance": "I have a dog. He is named after i got done with my girlfriend.",
+      "annotations": [
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        }
+      ]
+    },
+    {
+      "turn-index": 7,
+      "speaker": "U",
+      "time": null,
+      "annotation-id": "Bot004_095_07",
+      "utterance": "What's his name?",
+      "annotations": []
+    },
+    {
+      "turn-index": 8,
+      "speaker": "S",
+      "time": null,
+      "annotation-id": "Bot004_095_08",
+      "utterance": "I have not heard of it, but it is good to say.",
+      "annotations": [
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        }
+      ]
+    },
+    {
+      "turn-index": 9,
+      "speaker": "U",
+      "time": null,
+      "annotation-id": "Bot004_095_09",
+      "utterance": "Say what?",
+      "annotations": []
+    },
+    {
+      "turn-index": 10,
+      "speaker": "S",
+      "time": null,
+      "annotation-id": "Bot004_095_10",
+      "utterance": "I am a huge gamer, i love the outdoors.",
+      "annotations": [
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        }
+      ]
+    },
+    {
+      "turn-index": 11,
+      "speaker": "U",
+      "time": null,
+      "annotation-id": "Bot004_095_11",
+      "utterance": "I do too. I usually walk every day, sometimes with my family who I love",
+      "annotations": []
+    },
+    {
+      "turn-index": 12,
+      "speaker": "S",
+      "time": null,
+      "annotation-id": "Bot004_095_12",
+      "utterance": "I love[HEAVY BLACK HEART] to walk and go to the lake.",
+      "annotations": [
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        }
+      ]
+    },
+    {
+      "turn-index": 13,
+      "speaker": "U",
+      "time": null,
+      "annotation-id": "Bot004_095_13",
+      "utterance": "Yeah, it's great",
+      "annotations": []
+    },
+    {
+      "turn-index": 14,
+      "speaker": "S",
+      "time": null,
+      "annotation-id": "Bot004_095_14",
+      "utterance": "I have not seen that. I am sure it will be easy to find someone.",
+      "annotations": [
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        }
+      ]
+    },
+    {
+      "turn-index": 15,
+      "speaker": "U",
+      "time": null,
+      "annotation-id": "Bot004_095_15",
+      "utterance": "Yeah, sure",
+      "annotations": []
+    },
+    {
+      "turn-index": 16,
+      "speaker": "S",
+      "time": null,
+      "annotation-id": "Bot004_095_16",
+      "utterance": "I am sure you are a great person!",
+      "annotations": [
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        }
+      ]
+    },
+    {
+      "turn-index": 17,
+      "speaker": "U",
+      "time": null,
+      "annotation-id": "Bot004_095_17",
+      "utterance": "Thank you.",
+      "annotations": []
+    },
+    {
+      "turn-index": 18,
+      "speaker": "S",
+      "time": null,
+      "annotation-id": "Bot004_095_18",
+      "utterance": "I am good. I just got done eating dinner.",
+      "annotations": [
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        }
+      ]
+    },
+    {
+      "turn-index": 19,
+      "speaker": "U",
+      "time": null,
+      "annotation-id": "Bot004_095_19",
+      "utterance": "What did you eat?",
+      "annotations": []
+    },
+    {
+      "turn-index": 20,
+      "speaker": "S",
+      "time": null,
+      "annotation-id": "Bot004_095_20",
+      "utterance": "Chicken wings, mashed potatoes, orange, orange, orange, orange, orange, orange, orange, orange.",
+      "annotations": [
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "X",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "O",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        },
+        {
+          "comment": "",
+          "breakdown": "T",
+          "annotator-id": "",
+          "ungrammatical-sentence": ""
+        }
+      ]
+    }
+  ],
+  "dialogue-id": "Bot004_095"
+}

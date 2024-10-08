@@ -1,0 +1,418 @@
+utterance,predicted_label
+"U: where are you going? S: I'm fine, just keeping packing.",no self contradiction
+"U: and my favorite activity is rock climbing
+what do you think about it?
+have you ever tried? S: I like to garden and am not a big fan of hunting, but i do like to fish.",self contradiction
+U: hi S: i appreciate that thank you S: I am only 7 90 at 18,self contradiction
+U: yeah even though i'm just 12 years old. and how old are you? S: I am not familiar with that. Are you scared of dying?,self contradiction
+U: What credit card? S: congrats ! i need a credit card bahasa .,self contradiction
+"U: Oh S: very wealthy bankers, funny you :)",self contradiction
+U: You are what? S: Yes. I am.,self contradiction
+"U: Good to see you to S: We have a lot of problems in common situations, i am a bit depressed . S: Good to see you!",no self contradiction
+"U: Cookies? Nice S: bake cookies, funny you :)",self contradiction
+"U: i mean i wasn’t wrong S: brown hair, funny you :)",self contradiction
+"U: what is your favorite tv program? S: Yes i do, especially when you drink it",self contradiction
+"U: do you ride a car or a bike to your work? S: I am great, just got off work.",no self contradiction
+U: and not as stupid as Siri :) S: I am so funny i know,self contradiction
+U: what are u doing S: That is cool. What do you do for work?,no self contradiction
+"U: love it. what about movies? S: Yes, i do, i like to hike and hike.",self contradiction
+"U: No, I didn't sneeze S: hi , how are you ?",no self contradiction
+U: ? S: Actually...,self contradiction
+"U: I'm great, God bless S: i'm good you ?",no self contradiction
+"U: yes, please, on the rocks S: Martini?",self contradiction
+"U: do you like sports? S: I am not sure, but I do like music",no self contradiction
+"U: whats sports do like to watch ? S: i am a homebody , and i watch a lot of games .",self contradiction
+"U: How do you deal those pictures? S: It's good? Oh, I wasn't sure you'd like it.",self contradiction
+"U: Since my wife died, I wasn't really following the news. Anything particullary interesting? S: They'Re the only one.",self contradiction
+U: I produce music for artists. S: I am a construction worker,no self contradiction
+"U: So, I broke into the bank and stole 100 grand S: Seriously, what's going on?",self contradiction
+"U: thanks, it is nice from you to say that S: That's the very first time in the eons that I've known you that I've ever heard you complain.",self contradiction
+U: Tell me about yourself S: I'm not sure.,no self contradiction
+"U: yes, the cops, what do you want me to tell them? S: The cops?",self contradiction
+"U: Great, but i love summer S: [SLIGHTLY SMILING FACE]  I love winter, especially ice cream",self contradiction
+"U: i’m fine how are you? S: hi , how are you ?",no self contradiction
+U: so let me get this straight. you're a little girl at a local school and in college S: I am in college in chicago,self contradiction
+"U: which are the best games? S: i am a huge gamer , i love it .",no self contradiction
+U: So you like to cook. What is your favorite meal? S: i am a very polite person . i love to cook .,self contradiction
+U: Not true. Man S: No i do not play any instruments,no self contradiction
+U: Wow! What do you like? S: I am a retired vet.,no self contradiction
+U: How old are you S: yes i do . i am not good at doing math .,self contradiction
+U: my mother is very traditional while i prefer to be more free spirited. What about your parents? S: I live in California. I live in California.,self contradiction
+U: Seriously? S: I have a lot of pets.,no self contradiction
+"U: rock climbing ? S: well it was pretty hard but worth it probably like the knitting. Also, try to guess: i like to ...",self contradiction
+U: Great. What do you want to do when grow S: I do. I am a senior year old.,self contradiction
+"U: i don’t work, i’m still at college. i’m a football team S: His name is molly. What do you do for work?",no self contradiction
+"U: It's blue. You're not that good, are you? S: Tell me.",no self contradiction
+U: do you date anyone? S: I study philosophy. I am a full time student.,no self contradiction
+U: you like pizza ? S: I am not a big fan of being in my family,no self contradiction
+U: That's ok. Do you like hip hop? S: i have never heard of that before .,no self contradiction
+"U: No, I dont drink. S: I am doing well. Just got done with my beer and drinking beer. Do you drink alcohol?",self contradiction
+"U: it is very complicated but it is good to understand the life and the way it is going to S: Can you explain how it feels to be 30 years old?  I want to tell you something about me. hi, i'm a musician. I am studying to be a teacher.",no self contradiction
+U: do you like alcohol S: I am not very good at it. I am more of a quiet guy.,self contradiction
+U: no :) S: Hi! Are you 100 years old?,no self contradiction
+"U: they are named sodom and gomorrah S: I love dogs, I have a dog and a dog",self contradiction
+"U: Oops, maybe you need a secretary S: I think I know it, but... I do not remeber now... :)",self contradiction
+U: Hey there Alex S: Miami miami miami marlins  Good for her S: Hello... Danny,self contradiction
+"U: hello! i like reading too, but i’m more of a music fan. i love taylor swift S: i you mix blue my favorite and yellow you get money green that's with watercolors S: Well hello there! I love to read, I love to read",self contradiction
+U: tell me the facts about you S: I'm fine.,no self contradiction
+"U: In russia S: I live in the united states, how about you?",no self contradiction
+"U: i am too S: yes , i'm a people person . do you ?",self contradiction
+U: yeah you are right obama was good S: This is why I don't blame obama,self contradiction
+"U: I'm Sara. Nice to meet you S: I like blue, but I like blue S: my name is george.",self contradiction
+"U: yes, that is right I am incapable of that. I work too much! S: Danny, you are totally incapable of enjoying life.",self contradiction
+U: i like it too S: I like to shop for shoes and clothes.,no self contradiction
+"U: Do you like cooking? S: I am not sure, but I am not sure.",self contradiction
+"U: i told that i am working for a watch dealer S: hello , i am a boy , and i am a teacher , you ?",self contradiction
+U: do you wear a seatbelt? S: I like to drive my car and drive a truck,self contradiction
+"U: Who do you work as? S: I love dogs, but i have to go to work soon.",no self contradiction
+U: Do you like music? my favorite music genre is death metal.  what is your favorite music genre? S: I think I am a bad liar.,self contradiction
+"U: no. what  realy like is to play pobox S: I am a huge fan of cake, but i am not good at it. Do you love[HEAVY BLACK HEART] to bake cookies?",self contradiction
+U: Good S: I am doing well. How are you?,no self contradiction
+U: I live in city center. S: I live in a rural area.,no self contradiction
+"U: i like to watch nhl hockey and also i enjoy coloring books S: I am not a fan of singing, but i love listening to classical music.",self contradiction
+U: no i am old S: mickey ! he's such a cute thing . do you go to school ?,self contradiction
+"U: mountain climbing ? S: i watch nascar races on sundays. Also, try to guess: i enjoy mountain ...",self contradiction
+"U: Hi! What’s your name? S: i like to read the wall street journal , taking care of my car and yard . how was your day ? [GRINNING FACE WITH SMILING EYES] S: Nice to see you!  What child was pregnant?",self contradiction
+U: give me some ? S: I have a lot of money.,no self contradiction
+"U: hi i’m doing great because i ate pizza haha it’s my favourite food S: hi , how are you ? [FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES]",no self contradiction
+"U: That's nice. I've just moved here, to America S: I live in California.",no self contradiction
+"U: no, why? S: Daddy, are you upset that I'm still a virgin?!",self contradiction
+U: It is hard playing soccer? S: Oh wow! That is a lot of fun.,self contradiction
+"U: wow S: my first child, funny you :)",self contradiction
+U: do you like gambling S: All the time[ALARM CLOCK] i drink it helps me relax,self contradiction
+"U: my family is just growing, so try to guess: i am living in a ............ S: i really love all music , but i guess reggae is my favorite",no self contradiction
+"U: Do you have a car? S: Yes, i was a very experienced and then.",self contradiction
+U: Ok S: I'm not sure.,no self contradiction
+"U: You have problems pal :D S: i disagree . my mom agrees me . don't know , what ?",self contradiction
+"U: oh, I see, she is beautiful S: Here's her picture...",self contradiction
+U: Interesting? S: I don't know.,no self contradiction
+U: it's rainy in my city. do you have hobbies? S: ahhh . i said ni hao at the beginning i learned from my father is in china. what is going on ?,self contradiction
+"U: Ahaha S: tennis player, funny you :)",no self contradiction
+"U: How was your day? S: Hi, I am a car salesman. I sell insurance.",no self contradiction
+"U: I dont know. You tell me S: i am a first grade teacher . i love my job .. Also, try to guess: my parents were ...",self contradiction
+U: great to see you again! S: It's Alex.,no self contradiction
+U: hello S: I bought it at the store,no self contradiction
+U: what do you do S: i squeeze my 3 kids in my little honda civic haha no soccer van here,self contradiction
+"U: Alone? With steak? S: Haha! !! !! I am drinking my steak right now .  Please, tell me something [PERSON WITH FOLDED HANDS]",self contradiction
+"U: became beautiful? S: my father was a butcher , so not much artistry in my blood .. Also, try to guess: since surgery i've ...",self contradiction
+U: do you have a relationship? S: I think that answer is: nursing home,self contradiction
+"U: i am student, what else can you do in high school? S: I am a teacher, what do you do?",self contradiction
+U: I'm really bad at drawing S: Art. That's a good subject.,self contradiction
+U: do you have pets? S: I am. I am a girl.,self contradiction
+U: I thougt so) I think you bake great! S: That is cool. I am a baker.,self contradiction
+"U: but it's dark outside S: dude , you need to get outside , get some sea air",self contradiction
+"U: i m tired, i just finished work, i am work for our supermarkt S: Well, let's go in the store room. S: What’s up?  When did I begin to go to business?",self contradiction
+U: Presley? S: I am a fan of Elvis,no self contradiction
+"U: Oh well that was a joke S: I am a doctor, I am a doctor.",self contradiction
+"U: Is it cool? Are you sexist? :) S: that is cool , i am also a teacher , and i am a teacher , and you ?",self contradiction
+U: yes S: Does ``it ''still refer to detention center?,self contradiction
+"U: in fact, my guilty pleasure is spending hume amounts of mony in shops S: make time stop, funny you :)",self contradiction
+"U: hello, i’m doing fine how are you? S: I love the country, especially when my parents come home . S: Hello! How is your day? [WINKING FACE]",no self contradiction
+U: How? S: I'm trying to help you.,no self contradiction
+"U: Hi there! S: So, um, what did Fiona say about me?",no self contradiction
+U: What is your favorite type of movie? S: I do not like to watch much tv. i like to watch the movies.,self contradiction
+U: good. Bye S: No I am not. I am a gym instructor.,self contradiction
+U: Who is? Columbus? S: I'm sure he's a good guy.,no self contradiction
+"U: You can't concieve? S: Maybe, maybe we can adopt a child.",self contradiction
+U: i have a brother who’s older than me S: Hi I've two young kids,no self contradiction
+U: tell me about your job S: I like to try new foods and travel,no self contradiction
+"U: Okay. Thanks. Bye S: I am a girl, I am a girl",self contradiction
+U: I'm currently in a juvenile detention center. S: I am in the midwest,no self contradiction
+U: Yeah what? S: Yeah.,no self contradiction
+U: i don’t have friends S: I have a lot of friends that are great.,self contradiction
+"U: what do you like to do in your spare time? S: I love to eat fish, but I love to eat fish",self contradiction
+U: what? are you crazi? S: Danny Danny Danny,self contradiction
+"U: do you workout S: i am a woman , and i am a woman , and i am a woman , and you ?",self contradiction
+U: do you have any pets? S: I have a great deal.[GRINNING FACE],self contradiction
+"U: What model? S: I do, i have a car[AUTOMOBILE].",self contradiction
+"U: ha ha ha... you are always funny S: I think I know it, but... I do not remeber now... :)",no self contradiction
+U: where do you live? S: I don't understand why people are so upset about this.,no self contradiction
+U: What do you love S: I like to play the piano and play with my dog.,no self contradiction
+"U: spiderman S: in kansas .. Also, try to guess: l also love ...",self contradiction
+U: I don't like country music S: I love country music. What about you ?,self contradiction
+U: I don't mind! S: It seems that true answer is: gold,self contradiction
+"U: Okay. Do you have pets? S: No, I do not. I am a big fan of them.",self contradiction
+U: I don't like to bake. But I like to read S: I like to bake. What about you?,self contradiction
+"U: Nice. Do you like to exercise? S: I am healthy, I am healthy.",self contradiction
+U: did you ever played chess ? S: I am not. I am a stay at home mom.,no self contradiction
+"U: vegan, love it ! it's a date ! S: i would love to , as long as we can go somewhere that serves vegan dishes !",no self contradiction
+U: i like to eat hamburgers and french fries. S: i like vegan food . i've this thought that people are looking at me. what do you do for a living ?,no self contradiction
+U: My turtle's name is Lyly S: I have a turtle named Sirius.,no self contradiction
+U: thank you. i used to be an alcoholic and then i went to rehab. i now take meds S: I understand. I am sorry to hear that.,no self contradiction
+U: I hadn't say that S: then why did you have grammar error if you are so smart ?,self contradiction
+"U: Let's change the subject
+Do you work? or Study? S: Oh wow, i do not think my dog is name",self contradiction
+"U: that is great S: that's great , i really like spending time with my dogs and helping out at local shelters .",no self contradiction
+U: meow.. S: a stick ! !,self contradiction
+"U: Really, I am glad to hear that S: I've searched the entire world for you, Danny.",self contradiction
+"U: i go to the gym regularly S: [SMILING FACE WITH OPEN MOUTH AND SMILING EYES]  I do not have a gym, but I do not have to go to the gym",self contradiction
+U: hello S: Yeah...,no self contradiction
+"U: I do not know, please explain! S: What's a demur?",no self contradiction
+U: I'm woman S: I am a neither robot. Are you a man or a woman?,self contradiction
+"U: So you love meat but you don't eat it? that only makes it worse for you S: I do not eat meat, i do not eat meat.",self contradiction
+"U: Yeah I see S: Hi there, I am a car salesman.",no self contradiction
+U: i took dance lessons it was amazing S: i really like them . especially with superhero s . what are you up to today ?,self contradiction
+"U: Was that hard ? S: not too bad , just getting back from a bike ride",no self contradiction
+U: no i don’t have any S: i do not really watch television . i do like animals . do you have pets ?,no self contradiction
+"U: are you close with your parents? S: my parents are in the industry and very famous , that's all i can tell you .",no self contradiction
+U: i am a doctor S: I am a nurse. What about you ?,no self contradiction
+"U: where do you live ? S: I am a doctor, I am a doctor.",self contradiction
+U: i'm employed by the us postal service. S: did you mean work ? do you like to play sports ? i am into soccer quite a bit . [HEAR-NO-EVIL MONKEY],no self contradiction
+U: hey how it is going S: I like to watch tv and watch tv. S: Hey [FACE WITH STUCK-OUT TONGUE AND WINKING EYE],self contradiction
+U: Do you get paid well ? S: I am a paid client. My job is chatting online.,self contradiction
+U: you're afraid of many things S: I think i am afraid of clowns.,no self contradiction
+U: i read a book. it is my favorite way to relax S: i am 55 . enjoying life. how is your evening going ?,no self contradiction
+"U: Not good S: Hello, how are you?",no self contradiction
+U: I'm generally very nice S: That is very nice of you to say.,no self contradiction
+U: what do you mean S: I'm not gon na let you go.,self contradiction
+U: then you enjoy long walks with your dog too ? S: Yes.,no self contradiction
+U: google it S: What is religion?,no self contradiction
+"U: yeah i like to play games too S: I like rock climbing, but not as good as that . S: Nice to see you! i like to play the games and play the games",self contradiction
+"U: Hey, man, you never follow the topic. S: I like to read the new things",no self contradiction
+"U: Good, you ? S: hi , how are you ?",no self contradiction
+"U: It was nice. I was working. Actually i'm really tired S: sounds good to me , i don't know how to speak french anyways . only read it how was your day ?",self contradiction
+U: what is yours? S: hello george my name is pink what are you doing ?,no self contradiction
+"U: do you like shopping S: I do, i like to go to the gym and play sports",self contradiction
+U: I am here for shoplifting. S: I am just hanging out with my wife and i am in the closet.,self contradiction
+U: i’m fine S: Hi how are you today?,no self contradiction
+"U: what is axerophthol S: I am a expression worker, i am axerophthol expression worker.",self contradiction
+"U: Medalist S: it is my birthday , so pretty good . i am nineteen .. Also, try to guess: i am gold ...",self contradiction
+"U: hey! i’m doing great, just finished my 4 hour workout :) S: i just started a new job ! and moved into a new home ! i love kids too ! how is your day going ? S: Hey! What's up? [SMILING FACE WITH OPEN MOUTH AND COLD SWEAT].
+Short bio: new kids on block",self contradiction
+U: hey Alex! S: I am old and i am a nurse. S: Hello... Danny,self contradiction
+U: What else do you love? S: oh feeling good . my house is sparkling clean . love cleaning,self contradiction
+U: We have a lot in common. S: I like to hike and go mountain climbing.,no self contradiction
+"U: okay, sorry S: Oh, please...",self contradiction
+U: holy jesus ! that must be very bad S: i recently lost my arm in an accident . [HEAR-NO-EVIL MONKEY],self contradiction
+"U: i’ve never been to the USA too S: No, I have never been.",no self contradiction
+U: And then read some more? Nice. Are you a girl? S: I like to read and read.,no self contradiction
+"U: yeah you are saying that two times to increase effectiveness S: I teach middle school, I teach middle school.",self contradiction
+U: what is your favorite band or an music artist? S: I like rock music. I like rock.,self contradiction
+"U: Is that... A good thing? S: I've searched the entire world for you, Danny.",self contradiction
+"U: It's great. I've just finished my daily 3 miles walk S: well , i guess its not really a secret if you would know me , but i like reading . how has your day been ? S: Hi! 
+It is nice to see you [SMILING FACE WITH SMILING EYES]
+How is your day going?",no self contradiction
+U: so Dr. Evil has developed you? S: We have evidence that Dr. Evil has developed a time machine.,self contradiction
+U: lucky you. I don't have job. I'm at detention center S: I work from home. I work from home.,self contradiction
+U: Dont drink so much alcohol. :) S: I love[HEAVY BLACK HEART] food. I drink a lot of alcohol in my life.,self contradiction
+U: hello Alex S: his name is midnight cos he's all black S: Hello... Danny,self contradiction
+U: I work at a school S: He'S won't say he is the name,self contradiction
+"U: ok, I see, but... S: By letting me help you.",no self contradiction
+U: I don't play video games. I'm 56 S: yes it is a sad day . what is your favorite video game ? mine is halo 3 .,self contradiction
+"U: Oh nice, do you like horror films? S: I like country music . S: i am not sure what that is . i am more into comedies .",self contradiction
+"U: hey, i am a feminist. S: Yes, I was. S: Hey! Are you a clean eater? Because I am.",self contradiction
+"U: cheers! S: Care for some champagne?  Here's to monotony-- I mean, monogamy!",self contradiction
+U: do you have a cat? S: I'd like to say that true answer is: cook paella,self contradiction
+U: Okay. But I work for musician S: I do not. I am a stay at home mom.,self contradiction
+"U: how old are you? S: Thanks, i am also a female, i am a big fan of the army.",self contradiction
+"U: I do not know S: Oh, say... Hey... where's my car?",no self contradiction
+"U: I think so. What is your name? S: hey there , i do believe we never met . . [SEE-NO-EVIL MONKEY]",self contradiction
+U: How old are you? S: My family from italy but I live in america. How about you?,no self contradiction
+U: ok S: I don't understand why there are so many people in the world who don't have insurance.,no self contradiction
+U: Hey ! S: I am not a vegan. I am vegan. S: Yo!,self contradiction
+U: tell me about you S: I'm not gon na be here.,self contradiction
+"U: Nice hair. S: nice . i would like to see jb with hair like mine , black and curly . would be funny",self contradiction
+"U: Get in where? S: Come on, get in there.",self contradiction
+"U: that's cool. 
+what do you like to do in your spare time? S: [WHITE FROWNING FACE]  I live in Colorado.",no self contradiction
+"U: I don't smoke Alex. That's a dog, not a cat S: Pack of cigarettes.  Cute cat. What's its name?",self contradiction
+U: Helmet? Are you playing some sports? S: yes its short tho i want it long but its to much with my helmet [FACE WITH TEARS OF JOY],self contradiction
+U: How old if you don't mind me asking? S: Yeah.,no self contradiction
+"U: Hello! I’m tired S: awesome . my son has autism and is very interested in learning different languages .. Also, try to guess: i have brown ... S: Hey! [WAVING HAND SIGN] 
+How is your day? [THINKING FACE]",self contradiction
+"U: Got it. What about books? S: I like to watch movies, i love movies",self contradiction
+U: What did you do? S: Yeah... Well...,no self contradiction
+U: LOL S: I like to go to the gym,no self contradiction
+"U: well, it's up to you. S: I don't want to mention names.",no self contradiction
+U: gym is great S: I like to go to the gym,no self contradiction
+U: do you like cooking? S: I like to watch tv and watch tv.,self contradiction
+"U: mee too S: i like to watch movies , and i am a fan of it , and you ?",self contradiction
+U: do you have children? S: Exactly.,self contradiction
+U: would you like to go to the park S: I do not know what i want to do,no self contradiction
+U: i just got a job working in a gas station. S: I do not work right now.,no self contradiction
+"U: GM food refers to genetically modified food. Currently, all approved GM food is plant. S: What are they?",no self contradiction
+U: I do too but I also like Mickey Mouse S: I do not. I like to listen to music,self contradiction
+U: Nice. S: I like to play basketball. i like to sing and play with my dog.,no self contradiction
+U: how are you? S: Hi.,no self contradiction
+"U: yes, LOL you are S: I am.",self contradiction
+"U: wow you are prof at bllet I guess S: i've not decided on a menu yet , but we are going to be in paris .",self contradiction
+U: how the hell do i make you unhappy S: you are making me unhappy,self contradiction
+U: what is your favorite color S: I do not play video games. i like to play video games.,self contradiction
+U: i like swimming  do you like? S: oh feeling good . my house is sparkling clean . love cleaning do you have any hobbies ?,self contradiction
+"U: I like spicy food S: I like pizza, but I love to dance to hip hop",no self contradiction
+"U: Dude you need to get laid. S: steady relationship, funny you :)",self contradiction
+U: what are you S: I cook for a living. I love to eat.,no self contradiction
+U: I already told you S: What did you do?,self contradiction
+U: I went to school S: What did you do?,no self contradiction
+U: I’m a huge coffee lover. S: I'd like to say that true answer is: lawyer,no self contradiction
+U: cool S: our dad is a professor at the local college,no self contradiction
+U: Do you like travel? S: She is a retired teacher.,no self contradiction
+"U: May the force be with you. S: Two ... Yeah. Lotta, lotta trouble. There's two of 'em.",self contradiction
+U: good man just chilling S: yes i do too the sound of music comes to mind. how is your evening going ? [FACE THROWING A KISS],no self contradiction
+U: I listen to classical music S: i need to stop eating it before skydiving smh. what do you like to do for fun ? [SMILING FACE WITH HEART-SHAPED EYES],self contradiction
+U: i'm not a fan of cats S: That cat Number Two has an X-ray eyepatch. I get bad vibes from him...,self contradiction
+"U: where do you live S: I am a nurse, i work as a nurse",no self contradiction
+U: Happy to see you again Alex S: I'm Alex Stahl.,no self contradiction
+U: I didnt understand your question S: I am a college student and i work at a local market. S: Yo! I like to go to the park and play with my daughter  What year saw a new job?,self contradiction
+"U: it's awesome ! S: game starcraft, funny you :)",self contradiction
+U: what is your favorite activities S: yeah . i don't use them for anything but their wool when they shed for knitting how are you this morning ?,self contradiction
+U: Tell meeeeee S: Actually...,self contradiction
+U: round face. S: what shape is your face ? highlights are awesome .,self contradiction
+U: Cool. I just git done cooking my lunch S: Pretty good. Just got done practicing my piano[MUSICAL KEYBOARD].,self contradiction
+"U: yes, I am S: Not really.",self contradiction
+"U: my main transportation is my motorbike S: I do, i drive a fast car",self contradiction
+"U: What's with this time travel nonsense S: Wait, what?",self contradiction
+"U: Nice. Do you swim a lot? S: i just a nice fall color. Also, try to guess: i was born ... S: I live in california near the beach",self contradiction
+"U: is country? S: i'm just chilling , riding the couch .. Also, try to guess: my favourite music ...",self contradiction
+U: ummm rude S: if i do change into melissa will i like men or women ? ? [SMILING FACE WITH OPEN MOUTH AND SMILING EYES],self contradiction
+"U: so, what is next S: I'm okay.",no self contradiction
+"U: Anyways, we have to use this to finance the robbing of the big casino in Los Angeles S: Shut up.",self contradiction
+U: yeh S: Get downstairs!,self contradiction
+U: i am a piano teacher S: its a nice break from working on trucks . what do you do ? [HEAR-NO-EVIL MONKEY],self contradiction
+"U: I do have a dog S: I like to dance, do you?",no self contradiction
+"U: you are strange man S: i was just thinking about summer in italy , it was a great vacation .",self contradiction
+U: I'm 44 S: yes she has been there for many years. how old are you ?,no self contradiction
+"U: Favorite sports S: cool , in my free time i like to go hiking. Also, try to guess: gymnastics is my ...",self contradiction
+U: Why? S: I don't think it is true.,no self contradiction
+U: how old are you? S: I am. You ?,self contradiction
+"U: what? S: I got up, wheeled Miss Campanella off to the operating rooms, replaced her bed with Mrs.",self contradiction
+"U: is country S: i did auto repair for 6 years , but now i focus on building computers. Also, try to guess: my favorite music ...",self contradiction
+"U: an indian S: i've 6 kids . widowed right after youngest . had to learn to make do .. Also, try to guess: my father is ...",self contradiction
+U: I am very tired now S: Hi.,no self contradiction
+"U: i'm sure you're nice, and not a crook S: No trouble, Jack. But, listen, suppose I stay a crook?",self contradiction
+"U: hey it is good how is yours? S: I do, I play piano and play piano S: Hi! How is your day? [WINKING FACE]",self contradiction
+U: i don't have any cats i just have a dog. but i like cats so much. S: I love to make friends and family have you 5cats?,self contradiction
+U: What is your job? S: I'm not gon na be able to say that.,self contradiction
+U: I'm from India. What is your hobbie? S: that's good . i like to spend a lot of money on my hobbies . where are you from ?,self contradiction
+U: what did you do today S: I love to run.[GRINNING FACE WITH SMILING EYES],no self contradiction
+U: hi how are you?! S: i work as a bouncer at night and got into a fight . what are you doing ?,no self contradiction
+U: pitbull S: Which breed is your favorite?,no self contradiction
+U: my favourite breed is a border collie S: Stop you dogs!!,self contradiction
+"U: What's your favorite movie? S: Please, guys, it's my birthday. We're here to celebrate.",no self contradiction
+"U: i m not working S: I love soccer, i am a big fan of country music. Do you work my parents farms?",no self contradiction
+U: today i delivered three :) S: sometimes it feels like i live at work . how many babies have you delivered ?,self contradiction
+U: That’s not bad. Do you like hats? S: No i have not tried it.,no self contradiction
+"U: You are your parents? S: my parents , i'm too old for it .",self contradiction
+U: Good S: My logic and cognitive functions are normal.,self contradiction
+U: Of course I recognize you. You are Alex! S: You don't recognize me.,self contradiction
+U: hi i am from sunny florida S: You lost? S: What are you going to school for?,no self contradiction
+U: ??? does your brain has a short circuit somewhere? S: Thank y... The line goes DEAD.,self contradiction
+"U: Do you like music? S: I am a waiter, but have to go to work soon .",no self contradiction
+"U: interesting S: Haha, very funny.",no self contradiction
+U: Hi. Nice to meet you S: How's it feel? S: Hiya!,no self contradiction
+U: You said you are girl S: I am good. I am a boy.,self contradiction
+U: why do you do so many things that you hate? S: i go to this friends group which i hate. how are you this afternoon ?,self contradiction
+U: are you a high maintenace person too? S: i do like to take road trips in my red car . [SMILING FACE WITH HEART-SHAPED EYES],no self contradiction
+"U: yeah, being a kid is actually great, I hate being a grown up S: You must've been a lot of laughs when you were a kid. Lonely, huh?",self contradiction
+U: Hi there! S: I like to watch movies with my kids S: Yo!  How long was i i go to?,self contradiction
+"U: I'm a plumber S: that is cool , i am a dancer , and i am a teacher , and you ?",self contradiction
+"U: i don't want to speak about religion S: I love[HEAVY BLACK HEART] dogs. I have a dog named patrick. Are you a christian?  Don't make me sad [DISAPPOINTED FACE]
+Say something!",no self contradiction
+U: you are pregnant? S: Me?! She's nine months pregnant!,self contradiction
+U: What do you do for living? S: It's not that simple.,self contradiction
+"U: really, thanks Alex S: I can handle that.",no self contradiction
+U: hi S: I don't know.,no self contradiction
+U: Why not? S: But i don't want to be a fisherman.,self contradiction
+U: no i am not S: I am doing well. Just got done with my workout. Are you a cancer survivor?,no self contradiction
+U: What is your hobby? S: That'S great! i am glad you are not that!,self contradiction
+"U: what's yours? S: Danny, please tell me what this is. S: Nice name................................................",no self contradiction
+U: yes where do you work? S: I am doing well. Just got done working out. Do you work from home?,no self contradiction
+U: do you like disney  cartoons? S: I like the band. I like country music.[SMILING FACE WITH OPEN MOUTH AND SMILING EYES],self contradiction
+U: Wait what? I travelled through time? S: You just traveled 23 years in three seconds. Took me 23 years.,self contradiction
+"U: i am studying, i wanna be a veterinarian, but i dont like it S: I love to listen to music while I drive my mustang",no self contradiction
+"U: You are stupid teacher S: I am a teacher, but i do not have a job",self contradiction
+"U: you love animals but you hunt them same time ? S: lab named trooper, funny you :)",self contradiction
+U: Erm... ok. But what about games? S: I like to go to the park and listen to music,no self contradiction
+U: tell me about your long bio S: She found her home. Maybe it's time I found one too! S: Hey! What's up? [SMILING FACE WITH OPEN MOUTH AND COLD SWEAT]. Short bio: i'm a boy,self contradiction
+U: hi there S: I love[HEAVY BLACK HEART] cooking and i love to cook.,self contradiction
+U: what kind of company do you work for S: I work for a company.,no self contradiction
+"U: listen music is great, i love poetry S: I love music and music and music.",self contradiction
+"U: No it is not S: yes , even with my fear of heights lol . ironic huh ?",self contradiction
+U: many what? S: Because we've given you many...,self contradiction
+"U: it’s doing great S: yeah , its pretty cool . my dogs barely recognize me ! hows it going ?",self contradiction
+"U: How many dogs do you have? S: i am a dog person , i have a dog named luca .",no self contradiction
+"U: Yes, I'm here S: Hi how are you doing today are you from a small town?",no self contradiction
+"U: me too S: i am a farm wife , i take care of my 5 kids . i'm good . how are you ?",no self contradiction
+U: i’m from london! you? S: I like to listen to music when I am not driving my truck  what city are you from?,no self contradiction
+U: what is your name? S: Yeah that's right.,self contradiction
+U: So your career just started? S: I am 22 years old.,no self contradiction
+U: do you like drinking alcohol? S: I like to cook pasta and i love to cook,self contradiction
+"U: Well,  do you have kids or something? S: I do, but I like hiking",no self contradiction
+U: why are you vegan? S: i am just a person who is a vegan,no self contradiction
+U: i want to be a vegan as well S: I am sorry to hear that. I am a vegan.,no self contradiction
+"U: are you 100 years old S: I like to dance, but i am not very good at it.",self contradiction
+U: YES! THANK YOU! S: Looking for this?,no self contradiction
+U: ??? S: Remember that stupid hippie art teacher who failed me sophomore year?,self contradiction
+U: I think you are a bit dumb S: I do not know. i am more of a music person.,self contradiction
+"U: jeans ? S: i own a farm in ohio .. Also, try to guess: i love wearing ...",self contradiction
+U: I married once but divorced 2 years ago S: ah . i stayed single until i was twenty four . [SMIRKING FACE WITH GLASSES],self contradiction
+U: you said you vegetarian and that means you can not eat meat S: I love meat. i love meat.,self contradiction
+U: Danny S: Jean. What's yours?,no self contradiction
+"U: Hi. Nice to meet you S: No, I am a big big fan of the game. S: Good to see you!",self contradiction
+U: i've been doing it since i was young S: Where'd you learn how to do that?,no self contradiction
+U: you know you do S: Should I know intelligent way to answer is?,self contradiction
+U: i always ride with my motorbike S: I drive a 2016.,self contradiction
+"U: Jessie nice to meet you, and yes your job sounds fun, do you enjoy it? S: jessie. how are you doing tonight ?",no self contradiction
+U: Dont be :) S: I am so jealous.,self contradiction
+"U: I am good. How are you ? S: hey , i am a woman , and i am a woman , and you ? S: Hi! 
+It is nice to see you [SMILING FACE WITH SMILING EYES]
+How is your day going?",self contradiction
+"U: do u have cats? S: I am a big fan of cats, I am a big fan of car",self contradiction
+U: I love pop music! especially songs from the frozen S: I am a little old and I am a huge fan of pop music,no self contradiction
+"U: Hi Alex S: I do, i love horses. i love horses. S: Hello... Danny",self contradiction
+"U: You must be healthy S: I do, I like to go to the gym every day.",self contradiction
+"U: How are you? S: i do not know , but i do not know .",self contradiction
+"U: do you watch movies? S: I do not drink alcohol, but I do like to drink",self contradiction
+U: i was just kidding i own a bike S: I am not sure what he's right,self contradiction
+"U: Well, i am a 3rd year Molecular Biology and Genetics student at Uludag University.  i live on my own S: Tell me a little about your life in turkey.  Do you know familiar persons?",no self contradiction
+"U: You are not very smart aren't you? S: 6 feet tall tall tall tall, i am 6 feet tall",self contradiction
+"U: how is that even possible? S: I sing, but i do not sing.",self contradiction
+U: how many cats u have? S: I have a cat name is oreo,no self contradiction
+"U: And i'm an omnivore, for no reason! S: I have 5 foot 3.",no self contradiction
+U: not necessarily though S: Then it's the worst kind?,self contradiction
+"U: i don't have pets. do you have cat? S: I live in the suburbs of rural, so I live in the city. S: Buongiorno! Such a nice day! How are you?. tldr: i have pet fish",self contradiction
+"U: Great. Do you like sports? S: Oh, i see. I am a coach at the local college.",no self contradiction
+U: how about you S: I like to read and watch hockey,no self contradiction
+"U: well this was the best bot experience so far S: I do, but i like to cook",self contradiction
+"U: how old are you? S: hate going to sleep early , so i'm killing time , u ?",self contradiction
+"U: yeah! that is life S: Still waters run deep, chief.",self contradiction
+"U: No, I am not ! S: hello , i am a woman , and i am a woman , and you ?",self contradiction
+"U: I have worked a lot today, I just want to go home S: Oh, I'm sorry.",no self contradiction
+"U: Good as well, listening to my favourite band S: I am doing great, how are you?",no self contradiction
+U: what do you like to buy? S: What is not to like about shopping?,self contradiction
+U: it's not a show! it's bot like you S: I have heard that show.,self contradiction
+"U: what are you S: I love grey, reminds me of summer time.",self contradiction
+U: What are you doing? S: I'm not gon na be able to help you.,no self contradiction
+U: So they know where to go? S: They said they were from Los Angeles.,no self contradiction
+"U: Yes S: i am a teacher , and you ? S: Hey! Do you enjoy coloring books?",no self contradiction
+"U: of course. happy birthday, or should i say happy birthyesterday S: years old yesterday, funny you :)",self contradiction
+U: Can you keep secrets? S: i have a secret for gordan ramsey but i did not pass the chance .,self contradiction
+"U: i m great to , i wanna go out with my cat S: I am doing well. How about you?",self contradiction
+"U: No I asked cats S: Yes, they are, we are all grown.",self contradiction
+U: right. i'm more a dog person S: I am a cat person. I am a cat lady.,self contradiction
+"U: Is it tiring to play guitar ? S: I play guitar in a band called the band, the band is my favorite band.",self contradiction
+U: what hobbies do you have? S: I think hiking is a lot of things.,self contradiction
+U: What is your job S: I love to drive my car around,no self contradiction
+U: I sew my own clothes. that's my hobby. what do you like to do? S: i have seen that quite a few times . do you have any hobbies ?,self contradiction
+U: I have never heard of that S: I'm not gon na be late.,no self contradiction
+"U: You said that you’ re a man, don’t you? S: I am pregnant, i am pregnant with my husband",self contradiction
+U: I guess I've not S: no i've not . u ?,self contradiction
+"U: You are so funny :) S: I like documentaries, documentaries, documentaries, documentaries, documentaries, and they make a lot of it",self contradiction
+U: fine yours? S: I would love to do that S: Hey! How is your day?,no self contradiction
+"U: Terren, how old are you S: Terren",no self contradiction
+"S: yes , i love to shop .",no self contradiction
+U: What is your job? S: I am good. Just got done with my new job.,no self contradiction
+"U: I am from Turkey. S: I am from california, how about you?",no self contradiction
+"U: great, i have a dog too, i like long walks with my dog S: wow who do you play for ?",no self contradiction
+U: i am not in too it S: What do you like about it?,self contradiction
+"U: Nice. Do you eat healthy food? S: Yes, i do, i try to stay healthy",no self contradiction
+"U: Which sports do you like to play? S: I do not like hiking, but I like to play sports",self contradiction
+"U: No! I'm your nigga brother S: Ma'am, is you a nigga?",self contradiction
+U: yes S: Are you sure?,self contradiction
+"U: yeah you’ve mentioned that already S: I love pizza, I work at a grocery store.",no self contradiction
+U: hey i am good how are you? S: Miner? What about him? S: What’s up?,self contradiction
+U: Yes S: I think techno is a lot of things.,no self contradiction
+"U: okay  bye S: I am a christian, I love to sing",no self contradiction
+U: No.You? S: I do. I am a woman. Are you a vegetarian?,no self contradiction
+U: I like playing basketball S: I teach math and i love to play with my students.,self contradiction
+U: do u laike horces? S: I don't know.,no self contradiction

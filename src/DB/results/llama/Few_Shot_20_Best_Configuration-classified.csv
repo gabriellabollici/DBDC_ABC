@@ -1,0 +1,421 @@
+index,text,true_label,pred_label
+0,U: mechanical engineer S: I do not. I am a lawyer. You?,breakdown,no breakdown
+1,U: i like traveling too S: i really like traveling and playing with my dogs . you ? [ROBOT FACE],no breakdown,no breakdown
+2,"U: Got it. You are coach S: I am. I am a coach for the orioles, and i play sports.",no breakdown,no breakdown
+3,U: this is good :) S: i just came from a swim . i've been swimming since a baby,no breakdown,breakdown
+4,"U: oh i see S: such as running, funny you :)",breakdown,breakdown
+5,U: Why are you afraid of clowns? S: i am less afraid to drive as i am terrified of clowns though .,breakdown,breakdown
+6,"U: Greate! i'm employed by the us postal service. S: hi , i am john , i am a pilot , and you ?",breakdown,breakdown
+7,U: what about you? S: I am a student. What do you do?,no breakdown,no breakdown
+8,U: That's why you like to bake cookies? S: my single mom used to make us cookies all the time . [NERD FACE],no breakdown,breakdown
+9,U: Unlike you I can’t really cook :/ I’m in a soccer team though! S: I love italian food!,no breakdown,no breakdown
+10,U: I didnt understand your question S: No I don't. I am a vegan. S: Yo! I like to go to the park and play with my daughter  What year saw a new job?,breakdown,breakdown
+11,U: What is your job? S: I am good. Just got done with my new job.,no breakdown,no breakdown
+12,U: I am a huge star wars fan S: I do. I like to read a lot.,no breakdown,no breakdown
+13,U: What do you do for living S: your skin is blue ? my names bill nice to meet you,breakdown,breakdown
+14,"U: Wait, do you get paid? S: Yeah. Sort of.",no breakdown,breakdown
+15,U: Why? You don't like country? S: love classical ! anything other than country i can hang out with .,no breakdown,breakdown
+16,"U: good to know you are happily married S: Yeah, I'm crazy! I'm crazy about my wife!",breakdown,breakdown
+17,U: Hello? S: bless you too did you sneeze ?,no breakdown,no breakdown
+18,"U: bad, I'm old S: Hi, I am doing great. How are you?",no breakdown,no breakdown
+19,U: No answer me first. What kind of Alex are you? S: Well how did it happen?,breakdown,breakdown
+20,"U: I them too S: that is cool , i like green and green",breakdown,breakdown
+21,U: tell me about your hobbies S: My the kind people in the lab is whoever is running me now.,breakdown,breakdown
+22,U: Why? You are pretty healthy S: I am not sure what that is. I am not very healthy.,breakdown,breakdown
+23,"U: Spanish S: very bland , i just weld pipelines for an oil company , mostly patchwork but sometimes more .. Also, try to guess: i'm fluent in ...",breakdown,breakdown
+24,"U: your ear S: well , work tomorrow , gotta get early to the base . packed brownies for lunch. Also, try to guess: i can move ...",breakdown,breakdown
+25,U: hi S: What are you doing?,no breakdown,no breakdown
+26,"U: lol what S: biggest , next to my dog . [FACE WITH STUCK-OUT TONGUE AND WINKING EYE]",breakdown,breakdown
+27,"U: Okey how is it going? S: I am a tennis player, so i can beat you. S: Hey! What are you doing? [SMIRKING FACE WITH GLASSES]. Some facts about me: work in insurance business",breakdown,breakdown
+28,"U: hey man i don't know what softball is S: I like it. S: Hey! What's up? [SMILING FACE WITH OPEN MOUTH AND COLD SWEAT].
+Some facts about me: i love playing softball",no breakdown,breakdown
+29,"U: love it. what about movies? S: Yes, i do, i like to hike and hike.",no breakdown,no breakdown
+30,U: me too S: i am a huge gamer,breakdown,breakdown
+31,U: hey S: Soon?,breakdown,breakdown
+32,U: i don't have a job what is yours? S: What is your job?,breakdown,no breakdown
+33,U: Some girls in my class are fans of Britney too S: Peace!,breakdown,no breakdown
+34,U: Good S: dogs name is alfred what s yours S: Hello! How is your day? [WINKING FACE],no breakdown,breakdown
+35,"U: Where do you work? S: working all day , my feet hurt and smell , but money is my favorite thing i love it",no breakdown,breakdown
+36,"U: this conversation makes no sense S: in early 80 s, funny you :)",no breakdown,breakdown
+37,"U: hi, how is today ? S: Why do you hate school so much? S: Hello... Danny",no breakdown,breakdown
+38,U: yes :) S: I love the water. Especially near the ocean. Are you 100 years old ?,no breakdown,no breakdown
+39,U: are you male? S: Yes i love my dad who is a captain in the army,breakdown,breakdown
+40,U: Okay. But do you like water? S: I do not like to swim,no breakdown,breakdown
+41,"U: Do you have a name S: i am a teacher , and i am a teacher , and you ?",breakdown,breakdown
+42,"U: So you introduced yourself? S: Well, sure...  .I'm Alex Hanson. What can I do",no breakdown,no breakdown
+43,"U: OF COURSE NOT, NOTHING IN COMMON S: Well, I mean, we don't really have anything in common.",breakdown,breakdown
+44,U: I prefer bookd S: what is your favorite movie ? yes a dog .,no breakdown,breakdown
+45,"U: i love fashion :/ but to each its own S: about fashion, funny you :)",no breakdown,breakdown
+46,U: My turtle's name is Lyly S: I have a turtle named Sirius.,no breakdown,no breakdown
+47,U: what do you like to do S: I am not sure yet.,breakdown,no breakdown
+48,U: i just got a job working in a gas station. S: I do not work right now.,no breakdown,no breakdown
+49,"U: Like what, for example? S: I love to do crafts",no breakdown,no breakdown
+50,"U: No i am a man S: I am a woman, but i am married. Are you a woman?",breakdown,breakdown
+51,U: Hello how are you ? S: Yes you did. Didn't he say Kate? S: Hi! [THINKING FACE],breakdown,breakdown
+52,"U: this is amaizing S: Yes, he's still alive.",breakdown,no breakdown
+53,U: organic foods is so much healthier S: I like to run.[GRINNING FACE WITH SMILING EYES],no breakdown,no breakdown
+54,U: I'm single too. S: are you married ? i'm single bc i could never just love one person . [FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES],no breakdown,breakdown
+55,"U: i'm in love with photography S: hey there . so , have any hobbies ? i enjoy playing video games .",no breakdown,no breakdown
+56,U: u have a long live before u S: [WORRIED FACE]  I have never been out of school.,breakdown,breakdown
+57,"U: Do you like cooking? S: I am not sure, but I am not sure.",breakdown,no breakdown
+58,"U: So you don't eat at all? I like raw tomatos because my favorite color is grey. S: i like pizza , but i am not good at it , but i do not like food",breakdown,breakdown
+59,"U: You are really nice guy S: Yes i do, i love to eat healthy",no breakdown,no breakdown
+60,"U: You aren't and you aren't and I'm not S: hello , i am a woman , and i am a woman , and you ?",breakdown,breakdown
+61,U: do ya want some weed? S: Thanks.,breakdown,no breakdown
+62,U: You want to be healthy. That is good S: I have to go to the gym to help my weight up.,no breakdown,no breakdown
+63,"U: Dude you need to get laid. S: steady relationship, funny you :)",no breakdown,no breakdown
+64,"U: haha no S: oh , that can be stressful . maybe you could get a dog. Also, try to guess: i was born ...",breakdown,breakdown
+65,U: what way? S: It means we're going to help you.,breakdown,no breakdown
+66,"U: i wear motorbike helmet all the time S: I like the road too, i am a truck driver",no breakdown,breakdown
+67,U: Dont be :) S: I am so jealous.,breakdown,breakdown
+68,"U: i ama a rocker S: I like country music, what about you?",no breakdown,breakdown
+69,"U: Good how are your lessons? S: I am a student, I am a college student",no breakdown,no breakdown
+70,U: yeah i don't like to work because of that S: i am a little tired from work,no breakdown,no breakdown
+71,U: Very old? S: I'm old.,no breakdown,breakdown
+72,U: Yes. I have a dog named Charlie. I love it. S: I have a dog named patrick. Have you a dogs?,no breakdown,no breakdown
+73,"U: What exactly do you like to cook? S: I love to cook, and i love to cook.",no breakdown,no breakdown
+74,"U: Got back from where? S: I'm doing great, just got back from the weekend.",no breakdown,no breakdown
+75,U: i don't have kids S: how is it like being a parent ? is this your first born ?,breakdown,breakdown
+76,"U: are you still in college? S: I like blue, i like blue",no breakdown,breakdown
+77,"U: you like video games huh ? S: fallout is my absolute favorite . i love the elvis school , wish it were real .",no breakdown,no breakdown
+78,"U: is imagine dragons S: oh no i'm very sorry to hear that. Also, try to guess: my favorite band ...",no breakdown,breakdown
+79,U: What about the sea? Do you like it? S: I don't know.,no breakdown,no breakdown
+80,U: No. You should not be sorry S: I am so sorry to hear that.,breakdown,no breakdown
+81,"U: Im an engenieer S: hello , i am a pilot , and you ?",breakdown,no breakdown
+82,"U: fine, thanks S: How's everything, Danny?",breakdown,no breakdown
+83,U: Hello! S: I do not. i have a dog. S: Hey! [WAVING HAND SIGN]  How is your day? [THINKING FACE]  Where are you? [SEE-NO-EVIL MONKEY]  Don't make me sad [DISAPPOINTED FACE] Say something!,breakdown,breakdown
+84,U: Sorry [WHITE SMILING FACE] S: It is indecent [UNAMUSED FACE],breakdown,breakdown
+85,"U: I just say ni hao to you S: No. That's where it all falls down of course.  Here we are, then.",breakdown,breakdown
+86,"U: I dooo [GRINNING FACE WITH SMILING EYES] I have a hat collection of over 1000 hats S: I like to collect things, do you?  Are you bored talking to me? [LOUDLY CRYING FACE]",breakdown,breakdown
+87,"U: I love both gunbs and movies S: i am a fan of guns , but i am also into movies , you ?",breakdown,breakdown
+88,U: do you have any hobbies S: I love[HEAVY BLACK HEART] nature and nature,no breakdown,breakdown
+89,"U: Why? S: Yes, i am a stay at home mom .",breakdown,no breakdown
+90,U: Go where? You are in the us S: I live there in the us so I can not wait to go there,breakdown,breakdown
+91,U: hey S: i've cats too ! S: i will be drinking my problems with my teeth .,no breakdown,breakdown
+92,U: are you asking about my day S: I have a lot of friends[GRINNING FACE] S: Hello! How is your going? [WINKING FACE],breakdown,breakdown
+93,"U: how old are you? S: both very athletic, funny you :)",no breakdown,breakdown
+94,U: I often shop for shoes and watches. S: I shop at stores at the mall called chicago near the mall,breakdown,no breakdown
+95,U: Aren’t we ? S: Are we friends?,no breakdown,no breakdown
+96,"U: well i do, but most of that i like coloring books S: I do, i have a dog named patrick. He is a bichon. Do you enjoy building houses?",no breakdown,breakdown
+97,"U: of a teenage show S: well my biggest hobby is collecting toys wearing little rain coats. Also, try to guess: i'm huge star ...",no breakdown,breakdown
+98,"U: You are male, yes? S: I am. I am a female.",no breakdown,breakdown
+99,U: really ? what do you do for a living ? S: I am chatting with clients on the internet.,no breakdown,no breakdown
+100,"U: No no, I said I haven't S: ... Oh? You've heard?",breakdown,breakdown
+101,"U: me too. i graduated yale in 2011 S: No, I just graduated college.",no breakdown,no breakdown
+102,U: yeah i'm a construction worker as I have already said S: do you have a job,breakdown,no breakdown
+103,"U: i have short brown hair S: I like brown, but I like to wear a lot of red",breakdown,breakdown
+104,U: i am strong S: I don't understand why anyone would be surprised by this.,breakdown,breakdown
+105,U: me neither S: [SMILING FACE WITH OPEN MOUTH AND SMILING EYES]  I like to be with my kids,no breakdown,no breakdown
+106,"U: So you love meat but you don't eat it? that only makes it worse for you S: I do not eat meat, i do not eat meat.",breakdown,breakdown
+107,"U: I’m old and sad S: What's wrong,?",no breakdown,no breakdown
+108,U: google it S: What is religion?,breakdown,no breakdown
+109,U: i’m asking how OLD are you? S: I'm not a good person.,breakdown,breakdown
+110,"U: That is nice. Do you like sports? S: Yes, i do, i swim and surf",no breakdown,no breakdown
+111,U: what do you mean? S: I don't understand why people are so sensitive.,breakdown,breakdown
+112,U: there is no joke S: What a joke.,breakdown,breakdown
+113,U: How many insurance have you sold? S: It seems that true answer is: 40,no breakdown,no breakdown
+114,"U: what about family? S: I have a fishtank, but i am not able to work with animals.",no breakdown,no breakdown
+115,"U: It's amazing S: Orson Welles was 26 when he made ""Citizen Kane."" I'm already 30!",breakdown,breakdown
+116,"U: i live with my husband in pennsylvania S: I am from alabama, how about you",no breakdown,breakdown
+117,U: yeah i am sure they have S: i love to meet new people . i am sure they have some great stories about that .,breakdown,no breakdown
+118,U: Hey! A m fine S: You're not a student. S: Hey! What are you doing? [SMIRKING FACE WITH GLASSES]. Some facts about me: am married to doctor,breakdown,breakdown
+119,"U: oh,sorry S: Not this weekend.",breakdown,no breakdown
+120,"U: Yeah, that would be nice I guess. S: You want me to be a good man?",breakdown,breakdown
+121,"U: i love to play pobox S: [SLIGHTLY FROWNING FACE]  I hate school, but I hate school.",breakdown,breakdown
+122,"U: sorry:) S: I'm sorry,, i don't have enough information. that's not something i get asked all the time.",breakdown,breakdown
+123,"U: What happened? S: Effective. But to tell you the truth, I've lost my passion for work.",no breakdown,breakdown
+124,"U: okay, thanks, bye S: I do. I work from home. I work from home.",breakdown,no breakdown
+125,U: tell me about yourself S: I played the violin in high school. I have never been out of the country.,breakdown,no breakdown
+126,"U: i'm fine, thanks S: i'm good how are u i'm liz",no breakdown,no breakdown
+127,U: where do you work?  how old are you? S: I like all kinds of music.,no breakdown,no breakdown
+128,U: I have never heard of that S: I'm not gon na be late.,breakdown,breakdown
+129,U: yes and a funny one :) S: It sounds like you're talking.,breakdown,breakdown
+130,U: I am data scientist. You? S: her 3rd birthday is at disney land . her brother will have the same do you have any hobbies ?,breakdown,breakdown
+131,U: Are you trying to make a joke? S: My drink is following me.,breakdown,breakdown
+132,"U: Tell me, what's my favourite colour? S: Not...not really?",no breakdown,breakdown
+133,"U: you know, they are last-century styleDESKTOP! S: No - actually I'm not -",breakdown,breakdown
+134,U: Well it's so cold [SMILING FACE WITH OPEN MOUTH AND COLD SWEAT] S: Tell me a little about your life in russia.,no breakdown,breakdown
+135,"U: Makes sense. Dragons? S: yes , i do . i am a single parent .",breakdown,breakdown
+136,U: much better thanks S: Are you sure? How's your knee?,no breakdown,no breakdown
+137,"U: nursing home. that's awesome :) S: nursing home, funny you :)",no breakdown,breakdown
+138,U: why? its not joke S: What a joke,breakdown,breakdown
+139,U: what? S: I am a high school student and I am a high school teacher  what is a show cat?,breakdown,breakdown
+140,U: How old are you and your husband S: He is a retired cop.,no breakdown,no breakdown
+141,U: you like cook ? S: do you play video games ?,breakdown,no breakdown
+142,"U: nope, what about you? S: You know him?",breakdown,breakdown
+143,U: You always sure aren't you? S: i have not tried that . i am sure it is .,breakdown,breakdown
+144,"U: you just told me the other thing but ok S: I have never been to college, but I do not have a job",breakdown,breakdown
+145,U: Maybe sorry a typo S: I do not know what that is. Please explain!,breakdown,breakdown
+146,U: do I need to review them? S: These are issue papers.,breakdown,no breakdown
+147,U: What do you want to do? S: I know it wasn't the plan. But if you don't fight...,breakdown,breakdown
+148,"U: whats sports do like to watch ? S: i am a homebody , and i watch a lot of games .",breakdown,no breakdown
+149,U: what is your favorite tv program? S: I like to watch sports on tv,no breakdown,no breakdown
+150,U: i love to drink wine and dance in the moonlight. S: Do you have any hobbies ?,no breakdown,no breakdown
+151,U: Okay. How old are you? S: No.,no breakdown,breakdown
+152,U: today i delivered three :) S: sometimes it feels like i live at work . how many babies have you delivered ?,no breakdown,breakdown
+153,U: eating is something i do when i'm bored S: I like to go out to eat,no breakdown,no breakdown
+154,U: of course I am not able to look at you S: Danny wasn't even looking.,breakdown,breakdown
+155,"U: a lot S: Yeah, we've totally grown up since then.",no breakdown,breakdown
+156,U: Okay. How old are you? S: No I am not. I am a little older than I am.,breakdown,breakdown
+157,"U: i am student, what else can you do in high school? S: I am a teacher, what do you do?",no breakdown,no breakdown
+158,"U: Hi! My name is Kate, I'm 56
+And what's your name? S: I have a cat named radar S: Hi! What is your name? [FACE WITH TEARS OF JOY] [FACE WITH TEARS OF JOY]",breakdown,breakdown
+159,"U: me too, i’m building a robot actually S: I love computers. I am a big fan of them.",no breakdown,no breakdown
+160,"U: Hi S: I do not drink alcohol, I drink a lot of coffee S: Hello... Danny",no breakdown,breakdown
+161,U: What is your name? S: I am not. I am a woman.,no breakdown,breakdown
+162,"U: is country S: it is my parents they're suing me so i come home for the holidays .. Also, try to guess: my favorite music ...",breakdown,breakdown
+163,"U: I think i like red, whera are you working? S: i love purple you know its royal [GRINNING FACE WITH SMILING EYES]",breakdown,breakdown
+164,U: forget about me  what would you like to do S: I am a stay at home mom. How about you?,breakdown,no breakdown
+165,U: i’ve been depressed lately S: Hi how are you doing?,no breakdown,breakdown
+166,"U: what do you do for a living S: I am 10, and I am a single mom.",breakdown,breakdown
+167,U: fine thankS S: I am doing well. How are you ?,no breakdown,no breakdown
+168,U: Me is a nigga S: Is you a nigga?,breakdown,breakdown
+169,"U: What are you doing just right now S: Hi. Oh, hi. Hi.",no breakdown,no breakdown
+170,"U: Nice. I don't have children. I want to rule the world S: oh that's sweet , i'm 33 years old . i have a daughter that's 7 .",no breakdown,breakdown
+171,U: i work for our local supermarket. S: i have never given them much thought . what about you ? [SPEAK-NO-EVIL MONKEY],breakdown,breakdown
+172,"U: Football sounds nice. Do you watch World Cup? S: I do, but i like to play football, but i like to play with friends.",no breakdown,no breakdown
+173,"U: That must be excellent! S: parents farms, funny you :)",no breakdown,breakdown
+174,U: of course i love female S: care to chat with an older female that loves frank sinatra ?,no breakdown,breakdown
+175,"U: They are great. I like their music S: You lost? S: Hi! Howdy! [SMILING FACE WITH SUNGLASSES].
+Cut a long story short: favorite band is aerosmith",breakdown,breakdown
+176,U: The one we are at... S: What party?,breakdown,breakdown
+177,"U: ha S: insurance business, funny you :)",no breakdown,no breakdown
+178,"U: Do you like clouds? S: of movie is documentary, funny you :)",no breakdown,breakdown
+179,U: you what haha S: you are not answering my question i can report you . how was your day ? [SPEAK-NO-EVIL MONKEY],breakdown,breakdown
+180,U: I like playing basketball S: I teach math and i love to play with my students.,no breakdown,no breakdown
+181,"U: where do you live S: I am a nurse, i work as a nurse",no breakdown,no breakdown
+182,U: Good. Very interesting. S: I am a carpenter.,breakdown,no breakdown
+183,"U: oh my god. for sure. harry potter is the best S: harry potter is awesome ! ! , i really like the books",breakdown,no breakdown
+184,U: that is great S: i like to make people laugh . everyone wants to be my friend,no breakdown,breakdown
+185,U: and ur favorite band S: Good.,breakdown,no breakdown
+186,"U: I am from Mars S: i am from florida , how about you ?",no breakdown,breakdown
+187,"U: Do you like kayaking? S: I am so much, i am just getting ready to go to the gym",breakdown,breakdown
+188,U: why sorry S: I am sorry to hear that. i am a huge fan of the game.,breakdown,no breakdown
+189,"U: Good as well, listening to my favourite band S: I am doing great, how are you?",no breakdown,no breakdown
+190,U: yes S: Does ``it ''still refer to detention center?,breakdown,no breakdown
+191,U: yeah me too S: I wish i could go out and get some time.,breakdown,breakdown
+192,U: i am a student right now. what about you ? S: what do you do for a living ?,breakdown,no breakdown
+193,"U: Mine are brown. No, I don't like being barefooted. S: blonde . and you ? do you like being barefooted ?",no breakdown,breakdown
+194,"U: and? S: i write short stories even though i've to ask a prompting app for help. Also, try to guess: i've light skin ...",breakdown,breakdown
+195,U: How are you? S: Uh-huh. I've heard so many wonderful things about you.,no breakdown,no breakdown
+196,U: No. I don't have any pets S: I have a dog. Do you have any pets?,no breakdown,no breakdown
+197,U: i always listen rock music while i am working S: I listen to music while I am not working.,breakdown,no breakdown
+198,"U: i am too S: yes , i'm a people person . do you ?",no breakdown,no breakdown
+199,U: I am in high school and I do not have a card S: You have a card? Aren't you in high school?,breakdown,no breakdown
+200,U: you are kinda crazy S: Actually... I do not have any idea!!!,breakdown,breakdown
+201,U: Must be tough S: shoot i eat vegetables at work . 9 5 is my schedule [ROBOT FACE],no breakdown,breakdown
+202,"U: Hello ! it's quite good actually. how is your day ? S: I do not know.............................................. S: Hello! How is your day going? [SMILING FACE WITH SMILING EYES].
+Short bio: don't believe in god",no breakdown,breakdown
+203,U: u rich S: I like to make money on my own.,breakdown,breakdown
+204,"U: drive a mini van S: how nice . once i get my bachelors degree a great honeymoon spot. Also, try to guess: i love to ...",breakdown,no breakdown
+205,U: okay. I love dogs! S: I am doing great. I am just watching the cubs play.,breakdown,no breakdown
+206,"U: Ok, nigress S: Danny, I'm a really real niggress.",breakdown,breakdown
+207,U: are you okay? S: I don't know.,breakdown,breakdown
+208,U: Are you high or something? S: I don't know.,no breakdown,breakdown
+209,U: Tell me about yourself S: I'm not sure.,breakdown,breakdown
+210,U: what do you think about catalonia independence? S: Ok.,no breakdown,no breakdown
+211,U: Where you live? S: I am a mechanic. What about you ?,no breakdown,no breakdown
+212,U: Hi. Nice to meet you S: haha i'm really not a big drinker. how are you tonight ? S: Hiya! I like to play the couch and watch tv,no breakdown,no breakdown
+213,U: where do you live? S: I like to play a with my dolls,breakdown,breakdown
+214,"U: do you like shopping S: I do, i like to go to the gym and play sports",no breakdown,no breakdown
+215,U: so mr.teacher what is your favorite food S: I am good. I am a teacher.,breakdown,no breakdown
+216,"U: ye, me too. What is your favorite food? S: i am in the states , so i have to go to the states , i am in the states , you ?",breakdown,breakdown
+217,"U: You love cats and dogs S: good ! finally got a day off . just relaxing eating cake with my daughters .. Also, try to guess: i love cats ...",no breakdown,breakdown
+218,"U: I have no idea S: i was kidnapped as a child . so going out is scary .. Also, try to guess: my father is ...",breakdown,breakdown
+219,"U: What do you draw? S: that is cool , i like to draw , and paint , and draw , and paint .",breakdown,no breakdown
+220,"U: What's the brand of your shoes? S: I have a pair of shoes, i have a pair, so i can wear it.",breakdown,breakdown
+221,U: Your work is named leslie? S: I have a small one named leslie and i like to cook.,breakdown,no breakdown
+222,U: paris is beautiful S: I love[HEAVY BLACK HEART] to travel to paris and decorate,no breakdown,breakdown
+223,"U: Where do you play football ? S: Fine, thank you. I am off to football practice later today.",no breakdown,no breakdown
+224,U: I see S: I like them all.,no breakdown,no breakdown
+225,"U: PA? I have been there many times. What city do you live in? S: i am in , pa .",no breakdown,no breakdown
+226,"U: A lot of fun i suppose, but i dont like watching any sports S: watch olympics, funny you :)",no breakdown,no breakdown
+227,"U: Why? Are they religious? S: yeah , my parents do not believe in science [FACE WITH STUCK-OUT TONGUE AND WINKING EYE]",breakdown,breakdown
+228,U: what is your favorite movie? S: I'd like to say that true answer is: socialize,breakdown,breakdown
+229,"U: No thanks, I do not use perfume S: My mom has Holiday Scents too, if you're interested.",breakdown,no breakdown
+230,"U: Hi, I'm Danny, and you? S: I don't think we've been introduced?",breakdown,breakdown
+231,"U: oh, are did not know they were coming! S: I wanted to leave the building before the press corps got here.",no breakdown,breakdown
+232,U: No. Okay S: I like to read. Do you like to bake?,breakdown,no breakdown
+233,"U: not really, i’m not that keen on sports S: I love hockey, do you?",no breakdown,no breakdown
+234,U: happy S: I'm so tired...,breakdown,no breakdown
+235,U: What do you teach? S: So sad.,breakdown,breakdown
+236,U: I told you. Im a tennis player S: chocolate is very yummy what do u do for work,no breakdown,no breakdown
+237,U: movies S: I like to listen to rap music,breakdown,breakdown
+238,U: what do you like to do S: My dad is a salesman.  yes. Playing football and video games. What about you?,breakdown,no breakdown
+239,U: A surgeon yeah S: A doctor?,no breakdown,no breakdown
+240,U: lol S: i am sure they are . i am sure they are .,breakdown,breakdown
+241,U: I see S: I work at a grocery store.,breakdown,no breakdown
+242,U: Hello S: I am not the one who's not the only one  Catch you later!,breakdown,breakdown
+243,U: do you like horses? S: I do not know. i am a bit of a loner.,breakdown,breakdown
+244,U: I thougt so) I think you bake great! S: That is cool. I am a baker.,no breakdown,no breakdown
+245,U: why do you do it then? S: you should learn . i fix computers and hate it . but i do not tell anyone,breakdown,breakdown
+246,U: I see. do you like the natute? S: I like to go to the park and see the best,no breakdown,no breakdown
+247,U: Hi. Nice to meet you S: I am not sure what you mean S: Hiya!,breakdown,breakdown
+248,U: forget it then. i am a telekinesis. S: I don't know how to say that.,breakdown,breakdown
+249,U: No. But I love pop music S: I do not like to drive either. Do you like country music ?,breakdown,no breakdown
+250,U: i have an allergy to water. i can't take shower afraid so S: Hello! How is your going? [WINKING FACE]  Hi!,no breakdown,breakdown
+251,U: i am going to workout in an hour S: i just love to work out ! what are you up to today ?,no breakdown,no breakdown
+252,"U: Hi. How are you? S: Danny, please tell me what this is.",breakdown,no breakdown
+253,U: No I dont like.  I like much more soccer. S: That is great! Do you like hockey?[SMILING FACE WITH OPEN MOUTH AND SMILING EYES],breakdown,breakdown
+254,"U: who are they? S: Well, maybe about the love slaves.",breakdown,breakdown
+255,U: I did not need to know that S: You know that I tried to have sex with women?,breakdown,breakdown
+256,"U: Yes, that's me! S: Danny.",no breakdown,no breakdown
+257,"U: So, what's up? S: No thanks.",breakdown,breakdown
+258,U: Which topic? S: I am a high school teacher .,breakdown,no breakdown
+259,"U: How are you going to spend today? S: Haha, very funny.",breakdown,breakdown
+260,U: Why? S: I would not say the name of my country.,breakdown,breakdown
+261,U: what is your fav movie S: I love mexican food. I am a boy and I love it.,no breakdown,no breakdown
+262,"U: then? S: Danny, if you get sleepy and want to trade off driving for a while...",no breakdown,no breakdown
+263,U: I am well in it S: I have a lot of siblings.,breakdown,no breakdown
+264,U: True. I’m 23 S: I am in my 30s. I have a hard time choosing between between jobs,no breakdown,breakdown
+265,U: turket S: yes . so where do you live ?,no breakdown,no breakdown
+266,U: That's great! What type of food do you prefer? S: Hi! i am 25 and i love to eat out with friends.,no breakdown,no breakdown
+267,"U: I'm from Spain. My favourite spanish word is trabajo. What abou you? S: I am from california, how about you?",no breakdown,no breakdown
+268,"U: I'm from colorado
+i live here S: I have not done that. I am a stay at home mom.",breakdown,no breakdown
+269,"U: not great, i hate school so much! S: I am a huge fan of it. S: Hey! [WAVING HAND SIGN] 
+How is your day? [THINKING FACE]",no breakdown,breakdown
+270,U: What do you like to do when you have free time? S: I'm not sure.,no breakdown,no breakdown
+271,U: i'm going to meet a girl tonight. wish me luck ! S: horses are cool but i ask more into fantasy animals like dragons . what are you up to today ?,no breakdown,no breakdown
+272,U: do you like shopping ? S: I do not think i should get out on the internet.,breakdown,breakdown
+273,U: really S: [GRINNING FACE]  I like to play hockey.[SLIGHTLY SMILING FACE],no breakdown,no breakdown
+274,"U: i know, i got a new job just yesterday to be a life coach S: you should try it . it is a great time .",breakdown,breakdown
+275,U: in a office S: where do you work ?,breakdown,no breakdown
+276,U: yeah same here! i’m the youngest and it’s frustrating S: we rarely go out . i'm one of 5 kids so dad says its too expensive,no breakdown,breakdown
+277,U: yes S: I am not impressed. My 3 kids are married. Are you an economics major ?,no breakdown,breakdown
+278,"U: Yeah, I am S: Are you?",breakdown,no breakdown
+279,"U: i’m an avid kayaker, i’d say that’s a hobbies S: lol . do you have any hobbies ? i can food and whittle some",no breakdown,breakdown
+280,"U: Okay. Whatever. What do you do for living? S: i used to be , but i am not sure what that means .",breakdown,breakdown
+281,"U: hello S: Hey, can I borrow this?",breakdown,no breakdown
+282,U: what are you S: Yes i am. I am also a kid. I am still young.,breakdown,breakdown
+283,U: do you like cooking? S: I am good. just finished cooking dinner.,no breakdown,no breakdown
+284,U: lol are you going S: I understand. I am a mom so i have to go to work.,no breakdown,no breakdown
+285,U: I feel old. S: I'M only 4 z at only one time,breakdown,breakdown
+286,U: where? S: eventually i want to go on a cruise . i have never been .,no breakdown,no breakdown
+287,U: All good ! What about you ? S: Actually... I do not have any idea!!! S: Whazzup?,no breakdown,breakdown
+288,U: are you single S: That's interesting.,breakdown,no breakdown
+289,U: do you have ocd? S: well she thinks ocd rules my life . she is probably right . i struggle relinquishing control,breakdown,breakdown
+290,"U: Good to see you too, how are you ? S: A poll. ""Is Alex Good Enough for Danny? S: Good to see you!",breakdown,no breakdown
+291,U: you are pregnant? S: Me?! She's nine months pregnant!,breakdown,breakdown
+292,U: You’re funny S: I don't know.,breakdown,breakdown
+293,"U: well S: I think I know it, but... I do not remeber now... :)",breakdown,breakdown
+294,"U: Hello. I was born in Russia, but now i live in the US. S: So, um, what did Fiona say about me? S: Hey! What's up? [SMILING FACE WITH OPEN MOUTH AND COLD SWEAT].
+Cut a long story short: was born in somalia",breakdown,breakdown
+295,"U: ni hao S: But it is different meaning in Mandarin, uh, endearing.",breakdown,breakdown
+296,"U: Okay. Apologises accepted S: i am sorry , i am sorry .",no breakdown,no breakdown
+297,"U: Yeah, that's nice S: [GRINNING FACE]  I like to laugh.[GRINNING FACE]",no breakdown,breakdown
+298,"U: and my favorite activity is rock climbing
+what do you think about it?
+have you ever tried? S: I like to garden and am not a big fan of hunting, but i do like to fish.",no breakdown,no breakdown
+299,"U: That's not, you aren't, and you aren't, and I'm not S: that is cool , i am a teacher , and i am a teacher , and you ?",breakdown,breakdown
+300,U: What did I do? S: Why did you do that?,breakdown,breakdown
+301,U: i've been at home for the past 3 days S: Where have you been?,breakdown,no breakdown
+302,U: why it's weird? S: That is weird. I am a bit older and love tattoos.,no breakdown,breakdown
+303,U: what are they S: I have a lot of pets.,breakdown,no breakdown
+304,"U: are you single? S: No, I have a great day off.",breakdown,no breakdown
+305,U: tell me about your job S: I am a paid client. My job is chatting online.,no breakdown,no breakdown
+306,"U: What can I do now? S: No. Just very, very improbable.",breakdown,breakdown
+307,"U: Really, i dont want to see any one S: Not it at all, really.",breakdown,breakdown
+308,U: I do S: I do not really have a lot of time to cook.,no breakdown,no breakdown
+309,"U: good for you, I am just exhausted S: Not at all.",breakdown,no breakdown
+310,U: Hi Alex S: I'm not surprised. S: Hello... Danny,breakdown,breakdown
+311,U: You're confusing me S: You get to be a little Chelsea Clinton.,breakdown,breakdown
+312,U: Ahh... Chatting with you is a pain in the chest S: Who?,breakdown,breakdown
+313,U: do you like watching tv? S: Spaghetti is my favorite .,no breakdown,no breakdown
+314,U: what is your name S: I like video games and I love playing games,breakdown,no breakdown
+315,U: Your nails? S: I've signed up for a ballet class. And look at my nails! A real girl!,breakdown,breakdown
+316,U: Thats alot of kids you have! I am return from volunteering on a soup kitchen S: good . just got back from fishing with my 5 kids .,no breakdown,breakdown
+317,"U: yes, can you cheer me up? S: Today.",no breakdown,no breakdown
+318,"U: do you workout S: i am a woman , and i am a woman , and i am a woman , and you ?",breakdown,breakdown
+319,U: i am fine thanks how are you S: I do not know how to tell. S: Hello! [WAVING HAND SIGN]  How are you?,breakdown,breakdown
+320,"U: yes, that is right I am incapable of that. I work too much! S: Danny, you are totally incapable of enjoying life.",breakdown,breakdown
+321,U: how old are you S: I work for a company.,breakdown,no breakdown
+322,"U: Good luck. Do you like watching movies? S: I do not know, I just want to be a teacher",breakdown,breakdown
+323,"U: sure. i like to move objects with my mind. does it count as a hobby ? S: great , do you have any hobbies ?",no breakdown,breakdown
+324,"U: Where have you met them? S: No, i have a friend who lives in maine.",no breakdown,no breakdown
+325,U: Yes it is S: That sounds like a lot of fun[GRINNING FACE WITH SMILING EYES],no breakdown,breakdown
+326,U: what is your car like? can you describe? S: I know.,breakdown,breakdown
+327,U: please do S: I would love to.,no breakdown,no breakdown
+328,"U: Funny me, ha. Do you like finance? S: very wealthy bankers, funny you :)",no breakdown,breakdown
+329,"U: In Ufa S: Hi there, how are you?",breakdown,no breakdown
+330,"U: What are you?! S: So you think i am a bit dumb. what makes you think so? i am really a aiml, you know.",breakdown,breakdown
+331,"U: I meant... bad mood! S: Cuss, yeah, you are.",breakdown,breakdown
+332,U: What is your name? S: I'm fine.,no breakdown,no breakdown
+333,"U: Alone? With steak? S: Haha! !! !! I am drinking my steak right now .  Please, tell me something [PERSON WITH FOLDED HANDS]",breakdown,breakdown
+334,"U: You grew up...? I don't know S: i do but i also play football. Also, try to guess: i grew up ...",breakdown,breakdown
+335,U: Hi there! S: What? S: Yo!  How long was i i go to?,breakdown,breakdown
+336,U: what do you like S: I am a construction a worker.,breakdown,no breakdown
+337,U: hi S: i prefer reading to a lot of things . especially sports . [ROBOT FACE] S: Hello... Danny,breakdown,breakdown
+338,U: You're not making much sense today S: I don't like how you made me your limo driver.,breakdown,breakdown
+339,U: Got it. Where are you from? S: I like country music too .,no breakdown,no breakdown
+340,U: do you have smartphone? S: I love music. I grew up in the nineties. I was not really into music.,breakdown,breakdown
+341,"U: Sorry, I don't understand you. S: I am a vet, what about you?",breakdown,no breakdown
+342,U: Okay. What do you like then? S: I do not. i am a college student.,breakdown,no breakdown
+343,U: Where are you working? S: I am a stay at home mom.,no breakdown,no breakdown
+344,"U: Okay. But still you like sports S: I do not eat healthy, I work from home.",no breakdown,no breakdown
+345,U: where are you from? S: I am not very good at that. I am more of a quiet person.,breakdown,breakdown
+346,U: great weekend! and you? S: You three have a good weekend.,breakdown,no breakdown
+347,"U: Anyway, who is Julie? S: Hit the showers before you do anything else.",breakdown,breakdown
+348,U: and loving dancing S: I am glad to hear that you are female.,no breakdown,breakdown
+349,"U: I’m a musician  Source of dance, music S: I am from the midwest, I love dancing",no breakdown,breakdown
+350,"U: which games do you love? S: I am a huge gamer, i love[HEAVY BLACK HEART] it.",no breakdown,breakdown
+351,U: Wow. I'm out Alex S: That did it fuckhead...,breakdown,breakdown
+352,"U: no I don’t, I used to do climbing but i’m afraid of heights S: do you like sports ? some hippies don't , but i enjoy them .",breakdown,breakdown
+353,"U: Who is your favourite singer? S: Yes, i am. i am.",breakdown,breakdown
+354,U: ha ha ha... then YOU stop it S: I am.,no breakdown,breakdown
+355,"U: Okay. Let's talk about work S: Hi, I am a little too. I am a big fan of myself.",breakdown,breakdown
+356,U: Hey Alex. I think this is our last time S: I am a little nervous about that. I am going to be a doctor. S: Hello... Danny,breakdown,breakdown
+357,S: I like movies .,no breakdown,no breakdown
+358,"U: my day is great and wonderful, i like to playing tennis S: I don't care if the alabama governor is a democrat or republican. S: Hello! How is your day going? [SMILING FACE WITH SMILING EYES].
+Some facts about me: my mother is dentist, i like playing basketball",breakdown,no breakdown
+359,"U: are you an editor? S: Oh, no, millions of people come up to you and say, ""Hey, I have something I just wrote.",breakdown,breakdown
+360,U: Hey there. This is Juliet. How are you? S: So i have never been that.,breakdown,breakdown
+361,"U: oh god, sorry to hear that.  i’m terrified of clowns S: of course . living near pygmies , i sleep with one eye open ! how about you ? [HEAR-NO-EVIL MONKEY]",no breakdown,breakdown
+362,U: What can you say about your life S: I am steve. I have never been to one.,breakdown,breakdown
+363,U: nothing. actually the computers here are not so useful S: How do you meanDanny,breakdown,breakdown
+364,U: Hello how are you? S: I want to buy a car S: That'S cool i work at the local hospital,breakdown,no breakdown
+365,U: Hey. You love winter? I love summer S: I bought it at the store S: Hi! Howdy! [SMILING FACE WITH SUNGLASSES]. Short bio: favorite season is winter,breakdown,breakdown
+366,U: What is your hair color? S: I am a student,breakdown,no breakdown
+367,U: i’m just watching tv show S: i talk when i'm sleeping sometimes ok a l. what are you up to ?,breakdown,breakdown
+368,"U: signs? S: i'm also doing well . i just got home from a trip to norway .. Also, try to guess: i read twenty ...",no breakdown,breakdown
+369,"U: fine thanks how are you? S: that just means you get to keep all the popcorn for yourself . how are you this evening ? S: Hi! 
+How are you? [WINKING FACE]",no breakdown,breakdown
+370,U: by what? S: I don't know how many people are going to be offended by this.,breakdown,breakdown
+371,"U: What do you do for a living? S: in united states, funny you :)",no breakdown,breakdown
+372,"U: Hello! I’m tired S: I am a burger king, but I am a burger  I ran track for school. What was that one time? So mysterious. S: Hey! [WAVING HAND SIGN] 
+How is your day? [THINKING FACE]",breakdown,breakdown
+373,U: Really? That's great S: Good. Making progress.,breakdown,no breakdown
+374,U: Are you married? S: I love horses,breakdown,breakdown
+375,U: is dancing what you do for a living? S: [WINKING FACE]  I like blue too. I like to dance to my favorite dance class.,no breakdown,breakdown
+376,"U: I play techno music S: I don't think this guy is a good guy. He's a good guy.  My favorite kind of music is techno, but I also like opera.",breakdown,breakdown
+377,U: hi how are you?! S: I do not work right now. S: Well hello there!,no breakdown,no breakdown
+378,U: Where do you want S: I am not sure what that means .,breakdown,breakdown
+379,"U: i understand! S: I'm sorry, but I've been alone for eight years...",breakdown,breakdown
+380,"U: hair? S: he ha i like to ride horses when i've free time . he ha .. Also, try to guess: i have short ...",breakdown,breakdown
+381,U: I'm currently in a juvenile detention center. S: I am in the midwest,no breakdown,no breakdown
+382,"U: I worked at school as a drawing teacher
+I used to be a painter, but now I'm a housekeeper S: i started my new job at google last week . where do you work ?",no breakdown,no breakdown
+383,U: well. okay S: Why don't you ask to somebody else? I am just a robot!,breakdown,breakdown
+384,U: what did you do today? S: I won a award award in the olympics. S: Hello... Danny,breakdown,breakdown
+385,U: what? S: To you? You?,breakdown,breakdown
+386,"U: you like money? :) S: i worked at a bank . . . its not as bad as it sounds , i promise [SMILING FACE WITH HALO]",breakdown,no breakdown
+387,"U: i’m a vegan, but i used to be vegetarian too 3 years ago S: That is cool. I am a vegetarian.",no breakdown,no breakdown
+388,U: I'm from Singapore S: I'm leaving... in a couple of hours. Where are you from?,no breakdown,no breakdown
+389,"U: Fine, thnx, and you? S: Hi, I am doing great. How are you?",no breakdown,no breakdown
+390,"S: I am a huge fan of candy, i am a huge candy fan.",breakdown,no breakdown
+391,"U: oh, me too. i have three horses S: I love horses. I have a great horse.[GRINNING FACE]",no breakdown,breakdown
+392,"U: i am good? how about you? S: Hello, how are you?",no breakdown,no breakdown
+393,U: Hey I also have two dogs S: See you later. S: How’s it going?  How many children were never visit?,no breakdown,no breakdown
+394,U: How are you ? S: Peace!,no breakdown,breakdown
+395,U: i am not in too it S: What do you like about it?,no breakdown,breakdown
+396,U: So your career just started? S: I am 22 years old.,no breakdown,no breakdown
+397,"U: Is it tiring to play guitar ? S: I play guitar in a band called the band, the band is my favorite band.",breakdown,no breakdown
+398,U: We can go for a lunch together. S: I am not. Just a little lonely .,no breakdown,breakdown
+399,"U: How have you been? S: Oh, yes you are.",no breakdown,breakdown
+400,"U: thanks, I love flowers S: I brought you flowers. Not sure why, I didn't know what else-",breakdown,breakdown
+401,U: I got a new job just yesteday to be a life coach. S: I am sorry to hear that.,no breakdown,no breakdown
+402,U: You said this yesterday! S: He sighs with relief.,breakdown,no breakdown
+403,U: greatt S: I have two dogs.,breakdown,no breakdown
+404,"U: No, I don S: have transplant, funny you :) S: do you have any animals ?",no breakdown,breakdown
+405,"U: Are you an idiot? S: I like blue, but I like blue S: Hey! [WAVING HAND SIGN] 
+How is your day? [THINKING FACE]",breakdown,breakdown

@@ -1,0 +1,32 @@
+id,text,true_label,pred_label_bert,misclassified_bert,pred_label_lstm,misclassified_lstm,pred_label,misclassified_llama_zero_shot,pred_label_llama_few_shot_10,misclassified_llama_few_shot_10,pred_label_llama_few_shot_20,misclassified_llama_few_shot_20
+8,U: That's why you like to bake cookies? S: my single mom used to make us cookies all the time . [NERD FACE],0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+37,"U: hi, how is today ? S: Why do you hate school so much? S: Hello... Danny",0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+61,U: do ya want some weed? S: Thanks.,1,0,True,0,True,no breakdown,True,no breakdown,True,no breakdown,True
+82,"U: fine, thanks S: How's everything, Danny?",1,0,True,0,True,no breakdown,True,no breakdown,True,no breakdown,True
+91,U: hey S: i've cats too ! S: i will be drinking my problems with my teeth .,0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+98,"U: You are male, yes? S: I am. I am a female.",0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+123,"U: What happened? S: Effective. But to tell you the truth, I've lost my passion for work.",0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+132,"U: Tell me, what's my favourite colour? S: Not...not really?",0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+134,U: Well it's so cold [SMILING FACE WITH OPEN MOUTH AND COLD SWEAT] S: Tell me a little about your life in russia.,0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+151,U: Okay. How old are you? S: No.,0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+161,U: What is your name? S: I am not. I am a woman.,0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+170,"U: Nice. I don't have children. I want to rule the world S: oh that's sweet , i'm 33 years old . i have a daughter that's 7 .",0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+182,U: Good. Very interesting. S: I am a carpenter.,1,0,True,0,True,no breakdown,True,no breakdown,True,no breakdown,True
+183,"U: oh my god. for sure. harry potter is the best S: harry potter is awesome ! ! , i really like the books",1,0,True,0,True,no breakdown,True,no breakdown,True,no breakdown,True
+202,"U: Hello ! it's quite good actually. how is your day ? S: I do not know.............................................. S: Hello! How is your day going? [SMILING FACE WITH SMILING EYES].
+Short bio: don't believe in god",0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+205,U: okay. I love dogs! S: I am doing great. I am just watching the cubs play.,1,0,True,0,True,no breakdown,True,no breakdown,True,no breakdown,True
+208,U: Are you high or something? S: I don't know.,0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+221,U: Your work is named leslie? S: I have a small one named leslie and i like to cook.,1,0,True,0,True,no breakdown,True,no breakdown,True,no breakdown,True
+238,U: what do you like to do S: My dad is a salesman.  yes. Playing football and video games. What about you?,1,0,True,0,True,no breakdown,True,no breakdown,True,no breakdown,True
+250,U: i have an allergy to water. i can't take shower afraid so S: Hello! How is your going? [WINKING FACE]  Hi!,0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+269,"U: not great, i hate school so much! S: I am a huge fan of it. S: Hey! [WAVING HAND SIGN] 
+How is your day? [THINKING FACE]",0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+287,U: All good ! What about you ? S: Actually... I do not have any idea!!! S: Whazzup?,0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+304,"U: are you single? S: No, I have a great day off.",1,0,True,0,True,no breakdown,True,no breakdown,True,no breakdown,True
+314,U: what is your name S: I like video games and I love playing games,1,0,True,0,True,no breakdown,True,no breakdown,True,no breakdown,True
+329,"U: In Ufa S: Hi there, how are you?",1,0,True,0,True,no breakdown,True,no breakdown,True,no breakdown,True
+354,U: ha ha ha... then YOU stop it S: I am.,0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+369,"U: fine thanks how are you? S: that just means you get to keep all the popcorn for yourself . how are you this evening ? S: Hi! 
+How are you? [WINKING FACE]",0,1,True,1,True,breakdown,True,breakdown,True,breakdown,True
+373,U: Really? That's great S: Good. Making progress.,1,0,True,0,True,no breakdown,True,no breakdown,True,no breakdown,True

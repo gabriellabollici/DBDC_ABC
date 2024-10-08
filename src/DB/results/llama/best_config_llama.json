@@ -1,0 +1,20 @@
+[
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.9,
+        "p_value": 0.7,
+        "quantization": false
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.7,
+        "p_value": 0.6,
+        "quantization": false
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.7,
+        "p_value": 0.8,
+        "quantization": true
+    }
+]

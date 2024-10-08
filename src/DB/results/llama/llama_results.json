@@ -1,0 +1,1010 @@
+[
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.3,
+        "p_value": 0.6,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6182266009852216,
+            "Precision": 0.6617873384507672,
+            "Recall": 0.6182266009852216,
+            "F1": 0.6108815262000878,
+            "MSE": 0.3817733990147783,
+            "Jensen-Shannon Divergence": 0.26997458934783936
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.3,
+        "p_value": 0.7,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6280788177339901,
+            "Precision": 0.673002224422817,
+            "Recall": 0.6280788177339901,
+            "F1": 0.620923293265892,
+            "MSE": 0.37192118226600984,
+            "Jensen-Shannon Divergence": 0.26275819540023804
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.3,
+        "p_value": 0.8,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6231527093596059,
+            "Precision": 0.6655371139857188,
+            "Recall": 0.6231527093596059,
+            "F1": 0.616461586028593,
+            "MSE": 0.3768472906403941,
+            "Jensen-Shannon Divergence": 0.2659780979156494
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.5,
+        "p_value": 0.6,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.625615763546798,
+            "Precision": 0.6692516870830756,
+            "Recall": 0.625615763546798,
+            "F1": 0.6186930661575692,
+            "MSE": 0.37438423645320196,
+            "Jensen-Shannon Divergence": 0.26436835527420044
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.5,
+        "p_value": 0.7,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6280788177339901,
+            "Precision": 0.673002224422817,
+            "Recall": 0.6280788177339901,
+            "F1": 0.620923293265892,
+            "MSE": 0.37192118226600984,
+            "Jensen-Shannon Divergence": 0.26275819540023804
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.5,
+        "p_value": 0.8,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6206896551724138,
+            "Precision": 0.6674582844379281,
+            "Recall": 0.6206896551724138,
+            "F1": 0.6125102559357681,
+            "MSE": 0.3793103448275862,
+            "Jensen-Shannon Divergence": 0.2688007652759552
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.7,
+        "p_value": 0.6,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6206896551724138,
+            "Precision": 0.665531545748603,
+            "Recall": 0.6206896551724138,
+            "F1": 0.6131030768399583,
+            "MSE": 0.3793103448275862,
+            "Jensen-Shannon Divergence": 0.26837509870529175
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.7,
+        "p_value": 0.7,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6206896551724138,
+            "Precision": 0.6636654285795494,
+            "Recall": 0.6206896551724138,
+            "F1": 0.6136758696596425,
+            "MSE": 0.3793103448275862,
+            "Jensen-Shannon Divergence": 0.2679705023765564
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.7,
+        "p_value": 0.8,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6182266009852216,
+            "Precision": 0.659971609070056,
+            "Recall": 0.6182266009852216,
+            "F1": 0.6114480119897512,
+            "MSE": 0.3817733990147783,
+            "Jensen-Shannon Divergence": 0.2695744037628174
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.9,
+        "p_value": 0.6,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6280788177339901,
+            "Precision": 0.669262692904639,
+            "Recall": 0.6280788177339901,
+            "F1": 0.6220075900461727,
+            "MSE": 0.37192118226600984,
+            "Jensen-Shannon Divergence": 0.2620241343975067
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.9,
+        "p_value": 0.7,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6108374384236454,
+            "Precision": 0.6580079370054825,
+            "Recall": 0.6108374384236454,
+            "F1": 0.6018166716288638,
+            "MSE": 0.3891625615763547,
+            "Jensen-Shannon Divergence": 0.2765278220176697
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.9,
+        "p_value": 0.8,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6206896551724138,
+            "Precision": 0.665531545748603,
+            "Recall": 0.6206896551724138,
+            "F1": 0.6131030768399583,
+            "MSE": 0.3793103448275862,
+            "Jensen-Shannon Divergence": 0.26837506890296936
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.3,
+        "p_value": 0.6,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6206896551724138,
+            "Precision": 0.6393632434023532,
+            "Recall": 0.6206896551724138,
+            "F1": 0.6204595358115933,
+            "MSE": 0.3793103448275862,
+            "Jensen-Shannon Divergence": 0.26394063234329224
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.3,
+        "p_value": 0.7,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6206896551724138,
+            "Precision": 0.6393632434023532,
+            "Recall": 0.6206896551724138,
+            "F1": 0.6204595358115933,
+            "MSE": 0.3793103448275862,
+            "Jensen-Shannon Divergence": 0.26394063234329224
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.3,
+        "p_value": 0.8,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6133004926108374,
+            "Precision": 0.6312088580614653,
+            "Recall": 0.6133004926108374,
+            "F1": 0.6131855396223213,
+            "MSE": 0.3866995073891626,
+            "Jensen-Shannon Divergence": 0.2690944969654083
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.5,
+        "p_value": 0.6,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6206896551724138,
+            "Precision": 0.6393632434023532,
+            "Recall": 0.6206896551724138,
+            "F1": 0.6204595358115933,
+            "MSE": 0.3793103448275862,
+            "Jensen-Shannon Divergence": 0.26394063234329224
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.5,
+        "p_value": 0.7,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6059113300492611,
+            "Precision": 0.623089728203883,
+            "Recall": 0.6059113300492611,
+            "F1": 0.6059113300492611,
+            "MSE": 0.39408866995073893,
+            "Jensen-Shannon Divergence": 0.27424588799476624
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.5,
+        "p_value": 0.8,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6108374384236454,
+            "Precision": 0.629195040129681,
+            "Recall": 0.6108374384236454,
+            "F1": 0.6106013419365698,
+            "MSE": 0.3891625615763547,
+            "Jensen-Shannon Divergence": 0.2708750069141388
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.7,
+        "p_value": 0.6,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6231527093596059,
+            "Precision": 0.6424605473237407,
+            "Recall": 0.6231527093596059,
+            "F1": 0.6228029023773277,
+            "MSE": 0.3768472906403941,
+            "Jensen-Shannon Divergence": 0.26225343346595764
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.7,
+        "p_value": 0.7,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6182266009852216,
+            "Precision": 0.6384830983523017,
+            "Recall": 0.6182266009852216,
+            "F1": 0.6176127466263566,
+            "MSE": 0.3817733990147783,
+            "Jensen-Shannon Divergence": 0.26583272218704224
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.7,
+        "p_value": 0.8,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6133004926108374,
+            "Precision": 0.634498498472035,
+            "Recall": 0.6133004926108374,
+            "F1": 0.6123970274688976,
+            "MSE": 0.3866995073891626,
+            "Jensen-Shannon Divergence": 0.26943886280059814
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.9,
+        "p_value": 0.6,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6206896551724138,
+            "Precision": 0.6404725652016292,
+            "Recall": 0.6206896551724138,
+            "F1": 0.620210972053107,
+            "MSE": 0.3793103448275862,
+            "Jensen-Shannon Divergence": 0.26403990387916565
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.9,
+        "p_value": 0.7,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6059113300492611,
+            "Precision": 0.6220975121489505,
+            "Recall": 0.6059113300492611,
+            "F1": 0.6061312882954478,
+            "MSE": 0.39408866995073893,
+            "Jensen-Shannon Divergence": 0.274167001247406
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_10",
+        "temperature": 0.9,
+        "p_value": 0.8,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6157635467980296,
+            "Precision": 0.6321945525527161,
+            "Recall": 0.6157635467980296,
+            "F1": 0.6159780060880617,
+            "MSE": 0.3842364532019704,
+            "Jensen-Shannon Divergence": 0.2672489881515503
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.3,
+        "p_value": 0.6,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.625615763546798,
+            "Precision": 0.6243904996463893,
+            "Recall": 0.625615763546798,
+            "F1": 0.6248666251289939,
+            "MSE": 0.37438423645320196,
+            "Jensen-Shannon Divergence": 0.2641952633857727
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.3,
+        "p_value": 0.7,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6379310344827587,
+            "Precision": 0.6365876393943756,
+            "Recall": 0.6379310344827587,
+            "F1": 0.6370695568840532,
+            "MSE": 0.3620689655172414,
+            "Jensen-Shannon Divergence": 0.25568121671676636
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.3,
+        "p_value": 0.8,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.625615763546798,
+            "Precision": 0.6243904996463893,
+            "Recall": 0.625615763546798,
+            "F1": 0.6248666251289939,
+            "MSE": 0.37438423645320196,
+            "Jensen-Shannon Divergence": 0.2641952633857727
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.5,
+        "p_value": 0.6,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6305418719211823,
+            "Precision": 0.6293386055773339,
+            "Recall": 0.6305418719211823,
+            "F1": 0.629802590587823,
+            "MSE": 0.3694581280788177,
+            "Jensen-Shannon Divergence": 0.2607184052467346
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.5,
+        "p_value": 0.7,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6330049261083743,
+            "Precision": 0.6316349715507693,
+            "Recall": 0.6330049261083743,
+            "F1": 0.632131727726013,
+            "MSE": 0.3669950738916256,
+            "Jensen-Shannon Divergence": 0.2591606676578522
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.5,
+        "p_value": 0.8,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6305418719211823,
+            "Precision": 0.6289845425498204,
+            "Recall": 0.6305418719211823,
+            "F1": 0.6295182649862453,
+            "MSE": 0.3694581280788177,
+            "Jensen-Shannon Divergence": 0.26108717918395996
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.7,
+        "p_value": 0.6,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6206896551724138,
+            "Precision": 0.6198366493932996,
+            "Recall": 0.6206896551724138,
+            "F1": 0.6202030359256017,
+            "MSE": 0.3793103448275862,
+            "Jensen-Shannon Divergence": 0.2673112452030182
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.7,
+        "p_value": 0.7,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.645320197044335,
+            "Precision": 0.6441829233701675,
+            "Recall": 0.645320197044335,
+            "F1": 0.6446104869643101,
+            "MSE": 0.35467980295566504,
+            "Jensen-Shannon Divergence": 0.25028783082962036
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.7,
+        "p_value": 0.8,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6551724137931034,
+            "Precision": 0.6544149446612502,
+            "Recall": 0.6551724137931034,
+            "F1": 0.6547300326596379,
+            "MSE": 0.3448275862068966,
+            "Jensen-Shannon Divergence": 0.24300839006900787
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.9,
+        "p_value": 0.6,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6305418719211823,
+            "Precision": 0.6297161623269997,
+            "Recall": 0.6305418719211823,
+            "F1": 0.6300678921353263,
+            "MSE": 0.3694581280788177,
+            "Jensen-Shannon Divergence": 0.26036757230758667
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.9,
+        "p_value": 0.7,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.6083743842364532,
+            "Precision": 0.6072773342392843,
+            "Recall": 0.6083743842364532,
+            "F1": 0.6077338688397764,
+            "MSE": 0.3916256157635468,
+            "Jensen-Shannon Divergence": 0.27617496252059937
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.9,
+        "p_value": 0.8,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.625615763546798,
+            "Precision": 0.6243904996463893,
+            "Recall": 0.625615763546798,
+            "F1": 0.6248666251289939,
+            "MSE": 0.37438423645320196,
+            "Jensen-Shannon Divergence": 0.2641952633857727
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.3,
+        "p_value": 0.6,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.625615763546798,
+            "Precision": 0.651768177451394,
+            "Recall": 0.625615763546798,
+            "F1": 0.6236419691029121,
+            "MSE": 0.37438423645320196,
+            "Jensen-Shannon Divergence": 0.26128318905830383
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.3,
+        "p_value": 0.7,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6305418719211823,
+            "Precision": 0.6556457339047403,
+            "Recall": 0.6305418719211823,
+            "F1": 0.6289266759662072,
+            "MSE": 0.3694581280788177,
+            "Jensen-Shannon Divergence": 0.2576136589050293
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.3,
+        "p_value": 0.8,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6231527093596059,
+            "Precision": 0.6472200949345255,
+            "Recall": 0.6231527093596059,
+            "F1": 0.6216678786421508,
+            "MSE": 0.3768472906403941,
+            "Jensen-Shannon Divergence": 0.2627711892127991
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.5,
+        "p_value": 0.6,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6231527093596059,
+            "Precision": 0.6498254116095695,
+            "Recall": 0.6231527093596059,
+            "F1": 0.6209893017522458,
+            "MSE": 0.3768472906403941,
+            "Jensen-Shannon Divergence": 0.26312920451164246
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.5,
+        "p_value": 0.7,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6305418719211823,
+            "Precision": 0.6556457339047403,
+            "Recall": 0.6305418719211823,
+            "F1": 0.6289266759662072,
+            "MSE": 0.3694581280788177,
+            "Jensen-Shannon Divergence": 0.2576136589050293
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.5,
+        "p_value": 0.8,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6182266009852216,
+            "Precision": 0.6420395744504698,
+            "Recall": 0.6182266009852216,
+            "F1": 0.6167223607159044,
+            "MSE": 0.3817733990147783,
+            "Jensen-Shannon Divergence": 0.2662622332572937
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.7,
+        "p_value": 0.6,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.625615763546798,
+            "Precision": 0.651768177451394,
+            "Recall": 0.625615763546798,
+            "F1": 0.6236419691029121,
+            "MSE": 0.37438423645320196,
+            "Jensen-Shannon Divergence": 0.26128315925598145
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.7,
+        "p_value": 0.7,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6182266009852216,
+            "Precision": 0.6432978218291887,
+            "Recall": 0.6182266009852216,
+            "F1": 0.6163880643906476,
+            "MSE": 0.3817733990147783,
+            "Jensen-Shannon Divergence": 0.2664393186569214
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.7,
+        "p_value": 0.8,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6231527093596059,
+            "Precision": 0.6498254116095695,
+            "Recall": 0.6231527093596059,
+            "F1": 0.6209893017522458,
+            "MSE": 0.3768472906403941,
+            "Jensen-Shannon Divergence": 0.26312920451164246
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.9,
+        "p_value": 0.6,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.625615763546798,
+            "Precision": 0.651768177451394,
+            "Recall": 0.625615763546798,
+            "F1": 0.6236419691029121,
+            "MSE": 0.37438423645320196,
+            "Jensen-Shannon Divergence": 0.26128318905830383
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.9,
+        "p_value": 0.7,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6354679802955665,
+            "Precision": 0.6608384319639058,
+            "Recall": 0.6354679802955665,
+            "F1": 0.6338743202866578,
+            "MSE": 0.3645320197044335,
+            "Jensen-Shannon Divergence": 0.2541194558143616
+        }
+    },
+    {
+        "prompt_name": "breakdown_fs_20",
+        "temperature": 0.9,
+        "p_value": 0.8,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6379310344827587,
+            "Precision": 0.6684538828146902,
+            "Recall": 0.6379310344827587,
+            "F1": 0.6351287010393571,
+            "MSE": 0.3620689655172414,
+            "Jensen-Shannon Divergence": 0.25299859046936035
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.3,
+        "p_value": 0.6,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.5665024630541872,
+            "Precision": 0.5871498861759457,
+            "Recall": 0.5665024630541872,
+            "F1": 0.4371378250966682,
+            "MSE": 0.43349753694581283,
+            "Jensen-Shannon Divergence": 0.6740939617156982
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.3,
+        "p_value": 0.7,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.5615763546798029,
+            "Precision": 0.5518128445214521,
+            "Recall": 0.5615763546798029,
+            "F1": 0.4307416640182213,
+            "MSE": 0.43842364532019706,
+            "Jensen-Shannon Divergence": 0.6895960569381714
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.3,
+        "p_value": 0.8,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.5640394088669951,
+            "Precision": 0.5722172905570421,
+            "Recall": 0.5640394088669951,
+            "F1": 0.43206880728172437,
+            "MSE": 0.43596059113300495,
+            "Jensen-Shannon Divergence": 0.6984345316886902
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.5,
+        "p_value": 0.6,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.5665024630541872,
+            "Precision": 0.5962155696769402,
+            "Recall": 0.5665024630541872,
+            "F1": 0.433393996133476,
+            "MSE": 0.43349753694581283,
+            "Jensen-Shannon Divergence": 0.7075892090797424
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.5,
+        "p_value": 0.7,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.5665024630541872,
+            "Precision": 0.5871498861759457,
+            "Recall": 0.5665024630541872,
+            "F1": 0.4371378250966682,
+            "MSE": 0.43349753694581283,
+            "Jensen-Shannon Divergence": 0.6740939617156982
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.5,
+        "p_value": 0.8,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.5640394088669951,
+            "Precision": 0.5722172905570421,
+            "Recall": 0.5640394088669951,
+            "F1": 0.43206880728172437,
+            "MSE": 0.43596059113300495,
+            "Jensen-Shannon Divergence": 0.6984345316886902
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.7,
+        "p_value": 0.6,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.5640394088669951,
+            "Precision": 0.5722172905570421,
+            "Recall": 0.5640394088669951,
+            "F1": 0.43206880728172437,
+            "MSE": 0.43596059113300495,
+            "Jensen-Shannon Divergence": 0.6984345316886902
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.7,
+        "p_value": 0.7,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.5541871921182266,
+            "Precision": 0.4958980353912964,
+            "Recall": 0.5541871921182266,
+            "F1": 0.4192342040564526,
+            "MSE": 0.4458128078817734,
+            "Jensen-Shannon Divergence": 0.7316582202911377
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.7,
+        "p_value": 0.8,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.5738916256157636,
+            "Precision": 0.6703873712494404,
+            "Recall": 0.5738916256157636,
+            "F1": 0.44117765062028086,
+            "MSE": 0.42610837438423643,
+            "Jensen-Shannon Divergence": 0.6974706053733826
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.9,
+        "p_value": 0.6,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.5640394088669951,
+            "Precision": 0.5671496431084749,
+            "Recall": 0.5640394088669951,
+            "F1": 0.4357877998421643,
+            "MSE": 0.43596059113300495,
+            "Jensen-Shannon Divergence": 0.666566789150238
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.9,
+        "p_value": 0.7,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.5640394088669951,
+            "Precision": 0.5722172905570421,
+            "Recall": 0.5640394088669951,
+            "F1": 0.43206880728172437,
+            "MSE": 0.43596059113300495,
+            "Jensen-Shannon Divergence": 0.6984345316886902
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.9,
+        "p_value": 0.8,
+        "quantization": true,
+        "results": {
+            "Accuracy": 0.5566502463054187,
+            "Precision": 0.5189077730042542,
+            "Recall": 0.5566502463054187,
+            "F1": 0.4280813323123816,
+            "MSE": 0.4433497536945813,
+            "Jensen-Shannon Divergence": 0.6730179786682129
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.3,
+        "p_value": 0.6,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6059113300492611,
+            "Precision": 0.6017872752029038,
+            "Recall": 0.6059113300492611,
+            "F1": 0.5832776113358256,
+            "MSE": 0.39408866995073893,
+            "Jensen-Shannon Divergence": 0.3054696023464203
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.3,
+        "p_value": 0.7,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.5960591133004927,
+            "Precision": 0.5900037641359671,
+            "Recall": 0.5960591133004927,
+            "F1": 0.5717394755155805,
+            "MSE": 0.4039408866995074,
+            "Jensen-Shannon Divergence": 0.31486445665359497
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.3,
+        "p_value": 0.8,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.5960591133004927,
+            "Precision": 0.5900037641359671,
+            "Recall": 0.5960591133004927,
+            "F1": 0.5717394755155805,
+            "MSE": 0.4039408866995074,
+            "Jensen-Shannon Divergence": 0.31486445665359497
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.5,
+        "p_value": 0.6,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.603448275862069,
+            "Precision": 0.598936239427456,
+            "Recall": 0.603448275862069,
+            "F1": 0.580126984345638,
+            "MSE": 0.39655172413793105,
+            "Jensen-Shannon Divergence": 0.3081747889518738
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.5,
+        "p_value": 0.7,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.5911330049261084,
+            "Precision": 0.5837087678277175,
+            "Recall": 0.5911330049261084,
+            "F1": 0.5687541259813568,
+            "MSE": 0.4088669950738916,
+            "Jensen-Shannon Divergence": 0.31575846672058105
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.5,
+        "p_value": 0.8,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6133004926108374,
+            "Precision": 0.6109822784025777,
+            "Recall": 0.6133004926108374,
+            "F1": 0.5905586120637589,
+            "MSE": 0.3866995073891626,
+            "Jensen-Shannon Divergence": 0.30028706789016724
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.7,
+        "p_value": 0.6,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.5911330049261084,
+            "Precision": 0.5838161334245068,
+            "Recall": 0.5911330049261084,
+            "F1": 0.5676505217609191,
+            "MSE": 0.4088669950738916,
+            "Jensen-Shannon Divergence": 0.31726112961769104
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.7,
+        "p_value": 0.7,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.5960591133004927,
+            "Precision": 0.589636136298585,
+            "Recall": 0.5960591133004927,
+            "F1": 0.5739498594032681,
+            "MSE": 0.4039408866995074,
+            "Jensen-Shannon Divergence": 0.3118537366390228
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.7,
+        "p_value": 0.8,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6059113300492611,
+            "Precision": 0.600991619411447,
+            "Recall": 0.6059113300492611,
+            "F1": 0.5863833851552321,
+            "MSE": 0.39408866995073893,
+            "Jensen-Shannon Divergence": 0.301347941160202
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.9,
+        "p_value": 0.6,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.583743842364532,
+            "Precision": 0.5748217760194155,
+            "Recall": 0.583743842364532,
+            "F1": 0.5604025563126849,
+            "MSE": 0.41625615763546797,
+            "Jensen-Shannon Divergence": 0.3223792314529419
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.9,
+        "p_value": 0.7,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.6133004926108374,
+            "Precision": 0.6095587042713065,
+            "Recall": 0.6133004926108374,
+            "F1": 0.5946224896136494,
+            "MSE": 0.3866995073891626,
+            "Jensen-Shannon Divergence": 0.2949373722076416
+        }
+    },
+    {
+        "prompt_name": "breakdown_zs",
+        "temperature": 0.9,
+        "p_value": 0.8,
+        "quantization": false,
+        "results": {
+            "Accuracy": 0.5960591133004927,
+            "Precision": 0.5900037641359671,
+            "Recall": 0.5960591133004927,
+            "F1": 0.5717394755155805,
+            "MSE": 0.4039408866995074,
+            "Jensen-Shannon Divergence": 0.3148643970489502
+        }
+    }
+]

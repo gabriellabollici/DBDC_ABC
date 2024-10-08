@@ -1,0 +1,175 @@
+**********************************************************************
+Development data for DCDC5 (dialogue breakdown detection challenge 5)
+first release: 2020.2.12
+**********************************************************************
+
+This folder contains the development data for two tracks at DBDC5.
+- the dialogue breakdown detection track
+- the error category classification track
+
+Updates will be posted at the official website for these tracks.
+(Currently, the website is in preparation but will be ready soon.)
+
+------------------------------------------------
+* Dialogue breakdown detection track
+
+This is the original track of dialogue breakdown detection.
+
+The task of dialogue breakdown detection is to detect whether the system
+utterance causes dialogue breakdown (a situation in a dialogue where users
+cannot proceed with the conversation) in a given dialogue context.
+
+The participants will develop a dialogue breakdown detector that outputs a
+dialogue breakdown label (B: breakdown, PB: possible breakdown, or NB:Not a
+breakdown) and a distribution of these labels.  B, PB, and NB are sometimes
+noted as X, T, and O in the dataset.
+
+The development files can be found under the "dialogue_breakdown_detection"
+folder. The folder structure is as follows.
+
+dialogue_breakdown_detection/
+├ dbdc4_en_dev_labeled
+├ dbdc4_en_eval_labeled
+└ dbdc5_ja_dev_labeled
+    ├ ANO
+    ├ FRK
+    ├ IRS
+    ├ KIT
+    ├ KYO
+    ├ NNJ
+    ├ TOK
+    └ TPA
+
+There are datasets of English and Japanese. 
+
+* English data
+
+1. dbdc4_en_dev_labeled: development data for DBDC4 (English) 211 files
+2. dbdc4_en_eval_labeled: evaluation data for DBDC4 (English) 195 files
+
+These are English data prepared for DBDC4 but they have been re-annotated with a
+more reliable pool of annotators for DBDC5. In the evaluation phase, the
+held-out data (consisting of 194 files) of DBDC4 will be used as evaluation
+data.
+
+* Japanese data
+
+3. dbdc5_ja_dev_labeled: development data for DBDC5 (Japanese) 200 files.
+
+This is a newly created dataset for DBDC5. The dialogues are those collected in
+the preliminary round of the second dialogue system live competition held in
+Japan. There are 8 folders, each containing the data for 8 different systems
+(ANO, FRK, IRS, KIT, KYO, NNJ, TOK, and TPA). In the evaluation phase, the
+evaluation data (consisting of 167 files) without the reference labels from the
+8 systems will be provided.
+
+* Note
+
+The format of the files can be found here:
+https://dbd-challenge.github.io/dbdc3/datasets The participants are also free to
+use the data of previous DBDCs found at the above URL.
+
+Evaluation metrics will be the same as those in previous DBDCs. However, F1(B),
+the F-measure to accurately detect breakdowns, will be highly valued.
+
+------------------------------------------------
+- Error cateogry classification track
+
+The files can be found under the "error_category_classification" folder. The
+task of error category classification is to classify system utterances that led
+to dialogue breakdowns into one or more error categories that describe the
+causes of dialogue breakdowns.
+
+The folder structure is as follows.
+
+error_category_classification/
+└ dbdc5_ja_dev_labeled
+    ├ DCM
+    ├ DIT
+    └ IRS
+
+When an utterance is annotated by the majority of annotators with B or PB, that
+utterance becomes the target of error category classification. We defined 16
+categories. The categories are the modified version of those previously proposed
+in [1].The categories are as follows:
+
+1   Contradiction
+2   Grammatical error
+3   Ignore greeting
+4   Ignore offer
+5   Ignore proposal
+6   Ignore question
+7   Lack of common sense
+8   Lack of information
+9   Lack of sociality
+10   Repetition
+11   Self-contradiction
+12   Semantic error
+13   Topic transition error
+14   Unclear intention
+15   Uninterpretable
+16   Wrong information
+
+Multiple categories can be annotated for an utterance. When the utterance is
+classified as Grammatical error, Semantic error, Uninterpretable, or Wrong
+information, no further annotation was performed. In addition, <Topic
+transition error and Unclear intention> and <Lack of information and Unclear
+intention> cannot be annotated at the same time.
+
+Please refer to the manual (ECC-annotation-manual.pdf found in the same folder)
+for error category annotation for details. Note that the manual is in Japanese.
+
+Below the "error_category_classification" folder, there is just one folder
+containing Japanese data. There is no English data for this track.
+
+1. dbdc5_ja_dev_labeled: development data for DBDC5 (Japanese) 200 files
+
+Under the "dbdc5_ja_dev_labeled" folder, there are 3 folders, each of which
+contains the data for a system. The dialogues were taken from previous DBDCs
+(DBDC2 to DBDC4).
+
+Five annotators annotated each system utterance (annotated with a majority of
+PB/B lables) with the error categories. The development data contain the error
+categories for which the majority of the annotators agreed on their
+decisions. The inter-agreement of the error category annotation is around 0.5,
+which we consider is reasonable.
+
+In the evaluation phase, 200 files without reference labels will be provided.
+
+* Note
+
+As evaluation metrics, we will use exact match (EM) and F1. As for EM, if the
+two lists of error categories for the reference and hypothesis match exactly, it
+is regarded as correct. As for F1, for each utterance, we calculate the
+precision and recall of error cateogires, and take the average of F1 values for
+all utterances in the dataset.
+
+Submission format will be posted at the official website soon. 
+
+------------------------------------------------
+* References
+
+[1] Higashinaka R., Araki M., Tsukahara H., Mizukami M. (2019) Improving
+Taxonomy of Errors in Chat-Oriented Dialogue Systems. In: D'Haro L., Banchs R.,
+Li H. (eds) 9th International Workshop on Spoken Dialogue System
+Technology. Lecture Notes in Electrical Engineering, vol 579. Springer,
+Singapore
+
+------------------------------------------------
+* Contact
+
+If you have further questoins regarding the data, please let us know by the
+following email address.
+
+dbdc5-admin@googlegroups.com
+
+Organizers:
+
+Ryuichiro Higashinaka (NTT)
+Yuiko Tsunomori (NTT Docomo)
+Tetsuro Takahashi (Fujitsu Laboratories, LTD)
+Hiroshi Tsukahara (Denso IT Laboratories)
+Masahiro Araki (Kyoto Institute of Technology)
+João Sedoc (University of Pennsylvania) 
+Rafael Banchs (NTU)
+Luis F. D'Haro (Technical University of Madrid)
