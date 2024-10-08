@@ -16,8 +16,8 @@ Input: U: Okey how is it going? S: i am just a person who is a vegan.
 
 Output: 1 (breakdown)
 
-## Architecture (or link to poster?)
-Link to the poster in the repository
+## Architecture
+![Alt text](https://github.com/gabriellabollici/MASTER_THESIS/blob/main/CLIN34_poster.png?raw=true)
 
 ## Repository overview
 **Data** English subset of the Dialogue Breakdown Detection Challenge (DBDC) Dataset. It contains train and evaluation data. 
